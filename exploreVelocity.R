@@ -78,6 +78,30 @@ p3 <- ggplot(vel, aes(cnt, vel)) +
   )
 print(p3)
 
+p_qq <- ggplot(vel, aes(sample = vel, fill = amo)) + 
+  geom_qq(shape = 21, size = 5, col = 'black') + 
+  geom_qq_line(size = 1) +
+  scale_y_continuous(label = comma) +
+  ggtitle('QQ Plot of Velocities \n') +
+  xlab('\n Normal Z-score') +
+  ylab('Velocity (fps) \n') +
+  theme_bw() +
+  theme(
+    plot.title = element_text(color = 'black', face = 'bold', 
+                              hjust = 0.5, size = 14),
+    axis.title = element_text(color = 'black', face = 'bold', 
+                              hjust = 0.5, size = 14),
+    axis.text = element_text(color = 'black', face = 'bold', 
+                             hjust = 0.5, size = 14),
+    plot.margin = margin(c(.2,.2,.2,.2), unit = 'in'),
+    legend.title = element_blank(),
+    legend.text = element_text(color = 'black', face = 'bold', 
+                               hjust = 0.5, size = 12),
+    legend.background = element_rect(color = 'black'),
+    legend.position = c(0.1, 0.85)
+  )
+print(p_qq)
+
 mod <- aov(vel ~ rfl+amo , data = vel)
 # Tukey test HSD
 tukey.test <- TukeyHSD(mod)
