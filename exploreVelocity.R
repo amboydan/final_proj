@@ -102,6 +102,11 @@ p_qq <- ggplot(vel, aes(sample = vel, fill = amo)) +
   )
 print(p_qq)
 
+# shapiro wilk test on each factor
+do.call("rbind", 
+        with(vel, tapply(vel, amo,
+                         function(x) unlist(shapiro.test(x)[c("statistic", "p.value")]))))
+
 mod <- aov(vel ~ rfl+amo , data = vel)
 # Tukey test HSD
 tukey.test <- TukeyHSD(mod)
