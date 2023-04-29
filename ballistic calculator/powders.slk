@@ -1,0 +1,1727 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0_);;\(#,##0\)
+P;P#,##0_);;[Red]\(#,##0\)
+P;P#,##0.00_);;\(#,##0.00\)
+P;P#,##0.00_);;[Red]\(#,##0.00\)
+P;P"$"#,##0_);;\("$"#,##0\)
+P;P"$"#,##0_);;[Red]\("$"#,##0\)
+P;P"$"#,##0.00_);;\("$"#,##0.00\)
+P;P"$"#,##0.00_);;[Red]\("$"#,##0.00\)
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pm/d/yyyy
+P;Pd\-mmm\-yy
+P;Pd\-mmm
+P;Pmmm\-yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pm/d/yyyy\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_("$"* #,##0_);;_("$"* \(#,##0\);;_("$"* "-"_);;_(@_)
+P;P_(* #,##0_);;_(* \(#,##0\);;_(* "-"_);;_(@_)
+P;P_("$"* #,##0.00_);;_("$"* \(#,##0.00\);;_("$"* "-"??_);;_(@_)
+P;P_(* #,##0.00_);;_(* \(#,##0.00\);;_(* "-"??_);;_(@_)
+P;P.000
+P;P.0000
+P;P0.000
+P;P.00
+P;P\$#,##0_);;[Red]"($"#,##0\)
+P;P"Yes";;"Yes";;"No"
+P;P"True";;"True";;"False"
+P;P"On";;"On";;"Off"
+P;P[$(0-2]\ #,##0.00_);;[Red]\([$(0-2]\ #,##0.00\)
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M200
+P;EArial;M200;L9
+P;ECambria;M360;SB;L57
+P;EArial;M300;SB;L57
+P;EArial;M260;SB;L57
+P;EArial;M220;SB;L57
+P;EArial;M200;L18
+P;EArial;M200;L21
+P;EArial;M200;L61
+P;EArial;M200;L63
+P;EArial;M200;SB;L64
+P;EArial;M200;SB;L53
+P;EArial;M200;L53
+P;EArial;M200;SB;L10
+P;EArial;M200;L11
+P;EArial;M200;SI;L24
+P;EArial;M200;SB;L9
+P;EArial;M200;L10
+P;EArial;M200;L9
+P;ECambria;M360;SB;L57
+P;EArial;M300;SB;L57
+P;EArial;M260;SB;L57
+P;EArial;M220;SB;L57
+P;EArial;M200;L18
+P;EArial;M200;L21
+P;EArial;M200;L61
+P;EArial;M200;L63
+P;EArial;M200;SB;L64
+P;EArial;M200;SB;L53
+P;EArial;M200;L53
+P;EArial;M200;SB;L10
+P;EArial;M200;L11
+P;EArial;M200;SI;L24
+P;EArial;M200;SB;L9
+P;EArial;M200;L10
+P;EArial;M200;L9
+P;ECambria;M360;SB;L57
+P;EArial;M300;SB;L57
+P;EArial;M260;SB;L57
+P;EArial;M220;SB;L57
+P;EArial;M200;L18
+P;EArial;M200;L21
+P;EArial;M200;L61
+P;EArial;M200;L63
+P;EArial;M200;SB;L64
+P;EArial;M200;SB;L53
+P;EArial;M200;L53
+P;EArial;M200;SB;L10
+P;EArial;M200;L11
+P;EArial;M200;SI;L24
+P;EArial;M200;SB;L9
+P;EArial;M200;L10
+P;EArial;M200;L9
+P;ECambria;M360;SB;L57
+P;EArial;M300;SB;L57
+P;EArial;M260;SB;L57
+P;EArial;M220;SB;L57
+P;EArial;M200;L18
+P;EArial;M200;L21
+P;EArial;M200;L61
+P;EArial;M200;L63
+P;EArial;M200;SB;L64
+P;EArial;M200;SB;L53
+P;EArial;M200;L53
+P;EArial;M200;SB;L10
+P;EArial;M200;L11
+P;EArial;M200;SI;L24
+P;EArial;M200;SB;L9
+P;EArial;M200;L10
+P;EArial;M200;L9
+P;ECambria;M360;SB;L57
+P;EArial;M300;SB;L57
+P;EArial;M260;SB;L57
+P;EArial;M220;SB;L57
+P;EArial;M200;L18
+P;EArial;M200;L21
+P;EArial;M200;L61
+P;EArial;M200;L63
+P;EArial;M200;SB;L64
+P;EArial;M200;SB;L53
+P;EArial;M200;L53
+P;EArial;M200;SB;L10
+P;EArial;M200;L11
+P;EArial;M200;SI;L24
+P;EArial;M200;SB;L9
+P;EArial;M200;L10
+P;EArial;M200
+P;ECalibri;M220;L9
+P;ECambria;M360;SB;L57
+P;ECalibri;M300;SB;L57
+P;ECalibri;M260;SB;L57
+P;ECalibri;M220;SB;L57
+P;ECalibri;M220;L18
+P;ECalibri;M220;L21
+P;ECalibri;M220;L61
+P;ECalibri;M220;L63
+P;ECalibri;M220;SB;L64
+P;ECalibri;M220;SB;L53
+P;ECalibri;M220;L53
+P;ECalibri;M220;SB;L10
+P;ECalibri;M220;L11
+P;ECalibri;M220;SI;L24
+P;ECalibri;M220;SB;L9
+P;ECalibri;M220;L10
+P;ECalibri;M220;L9
+P;ECambria;M360;SB;L57
+P;ECalibri;M300;SB;L57
+P;ECalibri;M260;SB;L57
+P;ECalibri;M220;SB;L57
+P;ECalibri;M220;L18
+P;ECalibri;M220;L21
+P;ECalibri;M220;L61
+P;ECalibri;M220;L63
+P;ECalibri;M220;SB;L64
+P;ECalibri;M220;SB;L53
+P;ECalibri;M220;L53
+P;ECalibri;M220;SB;L10
+P;ECalibri;M220;L11
+P;ECalibri;M220;SI;L24
+P;ECalibri;M220;SB;L9
+P;ECalibri;M220;L10
+P;ECalibri;M220;L9
+P;ECambria;M360;SB;L57
+P;ECalibri;M300;SB;L57
+P;ECalibri;M260;SB;L57
+P;ECalibri;M220;SB;L57
+P;ECalibri;M220;L18
+P;ECalibri;M220;L21
+P;ECalibri;M220;L61
+P;ECalibri;M220;L63
+P;ECalibri;M220;SB;L64
+P;ECalibri;M220;SB;L53
+P;ECalibri;M220;L53
+P;ECalibri;M220;SB;L10
+P;ECalibri;M220;L11
+P;ECalibri;M220;SI;L24
+P;ECalibri;M220;SB;L9
+P;ECalibri;M220;L10
+P;EArial;M200;SB
+P;EArial;M200;L9
+P;EVerdana;M200;L9
+P;ECalibri;M220;L57
+P;EArial;M200
+P;EArial;M200;SB;L11
+P;EArial;M200
+P;EArial;M270;SB
+P;EArial;M200;SU;L13
+F;P0;DG0G8;M255
+B;Y362;X5;D0 0 361 4
+O;L;D;V0;K47;G100 0.001
+F;W1 1 11
+F;W2 2 22
+F;W3 3 9
+F;W4 256 11
+F;SM6;R22
+F;SM6;R23
+F;SM6;R24
+F;SM6;R25
+F;SM6;R26
+F;SM6;R27
+F;SM6;R28
+F;SM6;R29
+F;SM6;R30
+F;SM6;R31
+F;SM6;R32
+F;SM6;R33
+F;SM6;R34
+F;SM6;R35
+F;SM6;R36
+F;SM6;R37
+F;SM6;R38
+F;SM6;R39
+F;SM6;R40
+F;SM6;R41
+F;SM6;R42
+F;SM6;R43
+F;SM6;R44
+F;SM6;R45
+F;SM6;R46
+F;SM6;R47
+F;SM6;R48
+F;SM6;R49
+F;SM6;R50
+F;SM6;R51
+F;SM6;R52
+F;SM6;R53
+F;SM6;R54
+F;SM6;R55
+F;SM6;R56
+F;SM6;R57
+F;SM6;R58
+F;SM6;R59
+F;SM6;R60
+F;SM6;R61
+F;SM6;R62
+F;SM6;R63
+F;SM6;R64
+F;SM6;R65
+F;SM6;R66
+F;SM6;R67
+F;SM6;R68
+F;SM6;R69
+F;SM6;R70
+F;SM6;R71
+F;SM6;R72
+F;SM6;R73
+F;SM6;R74
+F;SM6;R75
+F;SM6;R76
+F;SM6;R77
+F;SM6;R78
+F;SM6;R79
+F;SM6;R80
+F;SM6;R81
+F;SM6;R82
+F;SM6;R83
+F;SM6;R84
+F;SM6;R85
+F;SM6;R86
+F;SM6;R87
+F;SM6;R88
+F;SM6;R89
+F;SM6;R90
+F;SM6;R91
+F;SM6;R92
+F;SM6;R93
+F;SM6;R94
+F;SM6;R95
+F;SM6;R96
+F;SM6;R97
+F;SM6;R98
+F;SM6;R99
+F;SM6;R100
+F;SM6;R101
+F;SM6;R102
+F;SM6;R103
+F;SM6;R104
+F;SM6;R105
+F;SM6;R106
+F;SM6;R107
+F;SM6;R108
+F;SM6;R109
+F;SM6;R110
+F;SM6;R111
+F;SM6;R112
+F;SM6;R113
+F;SM6;R114
+F;SM6;R115
+F;SM6;R116
+F;SM6;R117
+F;SM6;M225;R118
+F;SM6;M225;R119
+F;SM6;M225;R120
+F;SM6;M225;R121
+F;SM6;M225;R122
+F;SM6;M225;R123
+F;SM6;M225;R124
+F;SM6;R125
+F;SM6;R126
+F;SM6;R127
+F;SM6;R128
+F;SM6;R129
+F;SM6;R130
+F;SM6;R131
+F;SM6;R132
+F;SM6;R133
+F;SM6;R134
+F;SM6;R135
+F;SM6;R136
+F;SM6;R137
+F;SM6;R138
+F;SM6;R139
+F;SM6;R140
+F;SM6;R141
+F;SM6;R142
+F;SM6;R143
+F;SM6;R144
+F;SM6;R145
+F;SM6;R146
+F;SM6;R147
+F;SM6;R148
+F;SM6;R149
+F;SM6;R150
+F;SM6;R151
+F;SM6;R152
+F;SM6;R153
+F;SM6;R154
+F;SM6;R155
+F;SM6;R156
+F;SM6;R157
+F;SM6;R158
+F;SM6;R159
+F;SM6;R160
+F;SM6;R161
+F;SM6;R162
+F;SM6;R163
+F;SM6;R164
+F;SM6;R165
+F;SM6;R166
+F;SM6;R167
+F;SM6;R168
+F;SM6;R169
+F;SM6;R170
+F;SM6;R171
+F;SM6;R172
+F;SM6;R173
+F;SM6;R174
+F;SM6;R175
+F;SM6;R176
+F;SM6;R177
+F;SM6;R178
+F;SM6;R179
+F;SM6;R180
+F;SM6;R181
+F;SM6;R182
+F;SM6;R183
+F;SM6;R184
+F;SM6;R185
+F;SM6;R186
+F;SM6;R187
+F;SM6;R188
+F;SM6;R189
+F;SM6;R190
+F;SM6;R191
+F;SM6;R192
+F;SM6;R193
+F;SM6;R194
+F;SM6;R195
+F;SM6;R196
+F;SM6;R197
+F;SM6;R198
+F;SM6;R199
+F;SM6;R200
+F;SM6;R201
+F;SM6;R202
+F;SM6;R203
+F;SM6;R204
+F;SM6;R205
+F;SM6;R206
+F;SM6;R207
+F;SM6;R208
+F;SM6;R209
+F;SM6;R210
+F;SM6;R211
+F;SM6;R212
+F;SM6;R213
+F;SM6;R214
+F;SM6;R215
+F;SM6;R216
+F;SM6;R217
+F;SM6;R218
+F;SM6;R219
+F;SM6;R220
+F;SM6;R221
+F;SM6;R222
+F;SM6;R223
+F;SM6;R224
+F;SM6;R225
+F;SM6;R226
+F;SM6;R227
+F;SM6;R228
+F;SM6;R229
+F;SM6;R230
+F;SM6;R231
+F;SM6;R232
+F;SM6;R233
+F;SM6;R234
+F;SM6;R235
+F;SM6;R236
+F;SM6;R237
+F;SM6;R238
+F;SM6;R239
+F;SM6;R240
+F;SM6;R241
+F;SM6;R242
+F;SM6;R243
+F;SM6;R244
+F;SM6;R245
+F;SM6;R246
+F;SM6;R247
+F;SM6;R248
+F;SM6;R249
+F;SM6;R250
+F;SM6;R251
+F;SM6;R252
+F;SM6;R253
+F;SM6;R254
+F;SM6;R255
+F;SM6;R256
+F;SM6;R257
+F;SM6;R258
+F;SM6;R259
+F;SM6;R260
+F;SM6;R261
+F;SM6;R262
+F;SM6;R263
+F;SM6;R264
+F;SM6;R265
+F;SM6;R266
+F;SM6;R267
+F;SM6;R268
+F;SM6;R269
+F;SM6;R270
+F;SM6;R271
+F;SM6;R272
+F;SM6;R273
+F;SM6;R274
+F;SM6;R275
+F;SM6;R276
+F;SM6;R277
+F;SM6;R278
+F;SM6;R279
+F;SM6;R280
+F;SM6;R281
+F;SM6;R282
+F;SM6;R283
+F;SM6;R284
+F;SM6;R285
+F;SM6;R286
+F;SM6;R287
+F;SM6;R288
+F;SM6;R289
+F;SM6;R290
+F;SM6;R291
+F;SM6;R292
+F;SM6;R293
+F;SM6;R294
+F;SM6;R295
+F;SM6;R296
+F;SM6;R297
+F;SM6;R298
+F;SM6;R299
+F;SM6;R300
+F;SM6;R301
+F;SM6;R302
+F;SM6;R303
+F;SM6;R304
+F;SM6;R305
+F;SM144;M300;R306
+F;SM144;R307
+F;SM144;R308
+F;SM144;R309
+F;SM144;R310
+F;SM144;R311
+F;SM144;R312
+F;SM144;R313
+F;SM144;R314
+F;SM144;R315
+F;SM144;R316
+F;SM144;R317
+F;SM144;R318
+F;SM144;R319
+F;SM144;R320
+F;SM144;R321
+F;SM144;R322
+F;SM144;R323
+F;SM144;R324
+F;SM144;R325
+F;SM144;R326
+F;SM144;R327
+F;SM144;R328
+F;SM144;R329
+F;SM144;R330
+F;SM144;R331
+F;SM144;R332
+F;SM144;R333
+F;SM144;R334
+F;SM144;R335
+F;SM144;R336
+F;SM144;R337
+F;SM144;R338
+F;SM144;R339
+F;SM144;R340
+F;SM144;R341
+F;SM144;R342
+F;SM144;R343
+F;SM144;R344
+F;SM144;R345
+F;SM144;R346
+F;SM144;R347
+F;SM144;R348
+F;SM144;R349
+F;SM144;R350
+F;SM144;R351
+F;SM144;R352
+F;SM144;R353
+F;SM144;R354
+F;SM144;R355
+F;SM144;R356
+F;SM144;R357
+F;SM144;R358
+F;SM144;R359
+F;SM144;R360
+F;SM144;R361
+F;SM144;R362
+C;Y1;X1;K";; --------------------------------------------------------"
+F;SDM143;Y2
+C;K";;"
+C;Y3;K";; Special Thanks to the following for updating this"
+C;Y4;K";; database for 2006:"
+C;Y5;K";;"
+C;Y6;K";;"
+C;X2;K"Chris Young"
+C;Y7;X1;K";;"
+C;X2;K"Bill LaFever"
+C;Y8;X1;K";;"
+C;Y9;K";; --------------------------------------------------------"
+C;Y10;K";; Data file Format is as follows:"
+C;Y11;K";; "
+C;Y12;K";;    All fields must be seperated by tabs,"
+C;Y13;K";;"
+C;Y14;K";;    Each Powder entry MUST have all 3 fields filled in"
+C;Y15;K";;"
+C;Y16;K";;    Lines may be commented out by a preceeding semi-colon"
+C;Y17;K";;"
+C;Y18;K";;    No single field may be more than 64 characters"
+C;Y19;K";;"
+C;Y20;K";; BRAND"
+C;X2;K"TYPE"
+C;X3;K"LOT #"
+C;Y21;X1;K";;---------------------------------------------------------"
+C;Y22;K"Accurate"
+F;P0;FG0L;X2
+C;K1680
+C;X3;K"Unknown"
+C;Y23;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K2015
+C;X3;K"Unknown"
+C;Y24;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K2200
+C;X3;K"Unknown"
+C;Y25;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K2230
+C;X3;K"Unknown"
+C;Y26;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K2460
+C;X3;K"Unknown"
+C;Y27;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K2495
+C;X3;K"Unknown"
+C;Y28;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K2520
+C;X3;K"Unknown"
+C;Y29;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K2700
+C;X3;K"Unknown"
+C;Y30;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K"3100 (Discontinued)"
+C;X3;K"Unknown"
+C;Y31;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K4100
+C;X3;K"Unknown"
+C;Y32;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K4065
+C;X3;K"Unknown"
+C;Y33;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K4350
+C;X3;K"Unknown"
+C;Y34;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K5744
+C;X3;K"Unknown"
+C;Y35;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K8700
+C;X3;K"Unknown"
+C;Y36;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K"MagPro"
+C;X3;K"Unknown"
+C;Y37;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K"Nitro 100"
+C;X3;K"Unknown"
+C;Y38;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K"No. 2"
+C;X3;K"Unknown"
+C;Y39;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K"No. 5"
+C;X3;K"Unknown"
+C;Y40;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K"No. 7"
+C;X3;K"Unknown"
+C;Y41;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K"No. 9"
+C;X3;K"Unknown"
+C;Y42;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K"Solo 1000"
+C;X3;K"Unknown"
+C;Y43;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K"Solo 1250"
+C;X3;K"Unknown"
+C;Y44;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K"Surplus DP 2200"
+C;X3;K"Unknown"
+C;Y45;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K"Surplus DP 2230-C"
+C;X3;K"Unknown"
+C;Y46;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K"Surplus DP 68"
+C;X3;K"Unknown"
+C;Y47;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K"Surplus DP 73"
+C;X3;K"Unknown"
+C;Y48;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K"Surplus DP 79"
+C;X3;K"Unknown"
+C;Y49;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K"Surplus DP 85"
+C;X3;K"Unknown"
+C;Y50;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K"Surplus DP 86"
+C;X3;K"Unknown"
+C;Y51;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K"XMP5744"
+C;X3;K"Unknown"
+C;Y52;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K"XMR2015"
+C;X3;K"Unknown"
+C;Y53;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K"XMR2495"
+C;X3;K"Unknown"
+C;Y54;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K"XMR3100"
+C;X3;K"Unknown"
+C;Y55;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K"XMR4064"
+C;X3;K"Unknown"
+C;Y56;X1;K"Accurate"
+F;P0;FG0L;X2
+C;K"XMR4350"
+C;X3;K"Unknown"
+C;Y57;X1;K"ADI"
+C;X2;K"AP-100"
+C;X3;K"Unknown"
+C;Y58;X1;K"ADI"
+C;X2;K"AP-100N (Disc.)"
+C;X3;K"Unknown"
+C;Y59;X1;K"ADI"
+C;X2;K"AP-30N (Disc.)"
+C;X3;K"Unknown"
+C;Y60;X1;K"ADI"
+C;X2;K"AP-50N"
+C;X3;K"Unknown"
+C;Y61;X1;K"ADI"
+C;X2;K"AP-70N"
+C;X3;K"Unknown"
+C;Y62;X1;K"ADI"
+C;X2;K"AP-90 (Disc.)"
+C;X3;K"Unknown"
+C;Y63;X1;K"ADI"
+C;X2;K"AR2205"
+C;X3;K"Unknown"
+C;Y64;X1;K"ADI"
+C;X2;K"AR2206"
+C;X3;K"Unknown"
+C;Y65;X1;K"ADI"
+C;X2;K"AR2206H"
+C;X3;K"Unknown"
+C;Y66;X1;K"ADI"
+C;X2;K"AR2207"
+C;X3;K"Unknown"
+C;Y67;X1;K"ADI"
+C;X2;K"AR2208"
+C;X3;K"Unknown"
+C;Y68;X1;K"ADI"
+C;X2;K"AR2208H (Disc.)"
+C;X3;K"Unknown"
+C;Y69;X1;K"ADI"
+C;X2;K"AR2209"
+C;X3;K"Unknown"
+C;Y70;X1;K"ADI"
+C;X2;K"AR2210H (Disc.)"
+C;X3;K"Unknown"
+C;Y71;X1;K"ADI"
+C;X2;K"AR2211 (Disc.)"
+C;X3;K"Unknown"
+C;Y72;X1;K"ADI"
+C;X2;K"AR2213 (Disc.)"
+C;X3;K"Unknown"
+C;Y73;X1;K"ADI"
+C;X2;K"AR2213sc"
+C;X3;K"Unknown"
+C;Y74;X1;K"ADI"
+C;X2;K"AR2214 (Disc.)"
+C;X3;K"Unknown"
+C;Y75;X1;K"ADI"
+C;X2;K"AR2217"
+C;X3;K"Unknown"
+C;Y76;X1;K"ADI"
+C;X2;K"AR2218"
+C;X3;K"Unknown"
+C;Y77;X1;K"ADI"
+C;X2;K"AR2219"
+C;X3;K"Unknown"
+C;Y78;X1;K"ADI"
+C;X2;K"AR2225"
+C;X3;K"Unknown"
+C;Y79;X1;K"ADI"
+C;X2;K"AS-30N"
+C;X3;K"Unknown"
+C;Y80;X1;K"ADI"
+C;X2;K"AS-50N"
+C;X3;K"Unknown"
+C;Y81;X1;K"ADI"
+C;X2;K"AS-70N (Disc.)"
+C;X3;K"Unknown"
+C;Y82;X1;K"ADI"
+C;X2;K"Benchmark 1"
+C;X3;K"Unknown"
+C;Y83;X1;K"ADI"
+C;X2;K"Benchmark 2"
+C;X3;K"Unknown"
+C;Y84;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K2400
+C;X3;K"Unknown"
+C;Y85;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"American Select"
+C;X3;K"Unknown"
+C;Y86;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"Blue Dot"
+C;X3;K"Unknown"
+C;Y87;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"Bullseye"
+C;X3;K"Unknown"
+C;Y88;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"e3"
+C;X3;K"Unknown"
+C;Y89;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"Green Dot"
+C;X3;K"Unknown"
+C;Y90;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"Herco"
+C;X3;K"Unknown"
+C;Y91;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"Power Pistol"
+C;X3;K"Unknown"
+C;Y92;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"Power Pro Varmint"
+C;X3;K"Unknown"
+C;Y93;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"Power Pro 2000-MR (Medium Rifle)"
+C;X3;K"Unknown"
+C;Y94;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"Power Pro 3000-LR (Large Rifle"
+C;X3;K"Unknown"
+C;Y95;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"Power Pro 4000-MR (Magnum Rifle)"
+C;X3;K"Unknown"
+C;Y96;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"Promo"
+C;X3;K"Unknown"
+C;Y97;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"Red Dot"
+C;X3;K"Unknown"
+C;Y98;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"Reloder 7"
+C;X3;K"Unknown"
+C;Y99;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"ReLoder 10x"
+C;X3;K"Unknown"
+C;Y100;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"ReLoder 12 (Disc.)"
+C;X3;K"Unknown"
+C;Y101;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"ReLoder 15"
+C;X3;K"Unknown"
+C;Y102;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"ReLoder 17"
+C;X3;K"Unknown"
+C;Y103;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"ReLoder 19"
+C;X3;K"Unknown"
+C;Y104;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"ReLoder 22"
+C;X3;K"Unknown"
+C;Y105;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"ReLoder 25"
+C;X3;K"Unknown"
+C;Y106;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"ReLoder 50"
+C;X3;K"Unknown"
+C;Y107;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"Steel"
+C;X3;K"Unknown"
+C;Y108;X1;K"Alliant"
+F;P0;FG0L;X2
+C;K"Unique"
+C;X3;K"Unknown"
+C;Y109;X1;K"Bofors"
+F;P0;FG0L;X2
+C;K7.62
+C;X3;K"Unknown"
+C;Y110;X1;K"Bofors"
+F;P0;FG0L;X2
+C;K"PK3"
+C;X3;K"Unknown"
+C;Y111;X1;K"Bofors"
+F;P0;FG0L;X2
+C;K"PK4"
+C;X3;K"Unknown"
+C;Y112;X1;K"Bofors"
+F;P0;FG0L;X2
+C;K"PK5"
+C;X3;K"Unknown"
+C;Y113;X1;K"Bofors"
+F;P0;FG0L;X2
+C;K"PK6"
+C;X3;K"Unknown"
+C;Y114;X1;K"Bofors"
+F;P0;FG0L;X2
+C;K"RP1"
+C;X3;K"Unknown"
+C;Y115;X1;K"Bofors"
+F;P0;FG0L;X2
+C;K"RP2"
+C;X3;K"Unknown"
+C;Y116;X1;K"Bofors"
+F;P0;FG0L;X2
+C;K"RP3"
+C;X3;K"Unknown"
+C;Y117;X1;K"Bofors"
+F;P0;FG0L;X2
+C;K"RP4"
+C;X3;K"Unknown"
+F;Y118;X1
+C;K"Bofors"
+F;P0;FG0L;X2
+C;K"RP5"
+F;X3
+C;K"Unknown"
+F;Y119;X1
+C;K"Blackhorn"
+F;P0;FG0L;X2
+C;K209
+F;X3
+C;K"Unknown"
+F;Y120;X1
+C;K"GOEX"
+F;P0;FG0L;X2
+C;K"F"
+F;X3
+C;K"Unknown"
+F;Y121;X1
+C;K"GOEX"
+F;P0;FG0L;X2
+C;K"FF"
+F;X3
+C;K"Unknown"
+F;Y122;X1
+C;K"GOEX"
+F;P0;FG0L;X2
+C;K"FFF"
+F;X3
+C;K"Unknown"
+F;Y123;X1
+C;K"GOEX"
+F;P0;FG0L;X2
+C;K"FFFF"
+F;X3
+C;K"Unknown"
+F;Y124;X1
+C;K"GOEX"
+F;P0;FG0L;X2
+C;K"Cartridge"
+F;X3
+C;K"Unknown"
+C;Y125;X1;K"Hodgdon"
+C;X2;K"Benchmark (ADI BM2)"
+C;X3;K"Unknown"
+C;Y126;X1;K"Hodgdon"
+C;X2;K"BLC(2)"
+C;X3;K"Unknown"
+C;Y127;X1;K"Hodgdon"
+C;X2;K"Clays"
+C;X3;K"Unknown"
+C;Y128;X1;K"Hodgdon"
+C;X2;K"H1000"
+C;X3;K"Unknown"
+C;Y129;X1;K"Hodgdon"
+C;X2;K"H110"
+C;X3;K"Unknown"
+C;Y130;X1;K"Hodgdon"
+C;X2;K"H322"
+C;X3;K"Unknown"
+C;Y131;X1;K"Hodgdon"
+C;X2;K"H335"
+C;X3;K"Unknown"
+C;Y132;X1;K"Hodgdon"
+C;X2;K"H380"
+C;X3;K"Unknown"
+C;Y133;X1;K"Hodgdon"
+C;X2;K"H414"
+C;X3;K"Unknown"
+C;Y134;X1;K"Hodgdon"
+C;X2;K"H4198"
+C;X3;K"Unknown"
+C;Y135;X1;K"Hodgdon"
+C;X2;K"H4227"
+C;X3;K"Unknown"
+C;Y136;X1;K"Hodgdon"
+C;X2;K"H4350"
+C;X3;K"Unknown"
+C;Y137;X1;K"Hodgdon"
+C;X2;K"H450 (Disc.)"
+C;X3;K"Unknown"
+C;Y138;X1;K"Hodgdon"
+C;X2;K"H4831"
+C;X3;K"Unknown"
+C;Y139;X1;K"Hodgdon"
+C;X2;K"H4831sc (ADI AR2213sc)"
+C;X3;K"Unknown"
+C;Y140;X1;K"Hodgdon"
+C;X2;K"H4895"
+C;X3;K"Unknown"
+C;Y141;X1;K"Hodgdon"
+C;X2;K"H5010 (Disc.)"
+C;X3;K"Unknown"
+C;Y142;X1;K"Hodgdon"
+C;X2;K"H50BMG"
+C;X3;K"Unknown"
+C;Y143;X1;K"Hodgdon"
+C;X2;K"H870 (Disc.)"
+C;X3;K"Unknown"
+C;Y144;X1;K"Hodgdon"
+C;X2;K"H1000"
+C;X3;K"Unknown"
+C;Y145;X1;K"Hodgdon"
+C;X2;K"HP-38"
+C;X3;K"Unknown"
+C;Y146;X1;K"Hodgdon"
+C;X2;K"HS-6"
+C;X3;K"Unknown"
+C;Y147;X1;K"Hodgdon"
+C;X2;K"HS-7 (Disc.)"
+C;X3;K"Unknown"
+C;Y148;X1;K"Hodgdon"
+C;X2;K"Hybrid 100V"
+C;X3;K"Unknown"
+C;Y149;X1;K"Hodgdon"
+C;X2;K"International"
+C;X3;K"Unknown"
+C;Y150;X1;K"Hodgdon"
+C;X2;K"Lil'Gun"
+C;X3;K"Unknown"
+C;Y151;X1;K"Hodgdon"
+C;X2;K"Longshot"
+C;X3;K"Unknown"
+C;Y152;X1;K"Hodgdon"
+C;X2;K"Retumbo"
+C;X3;K"Unknown"
+C;Y153;X1;K"Hodgdon"
+C;X2;K"Titegroup"
+C;X3;K"Unknown"
+C;Y154;X1;K"Hodgdon"
+C;X2;K"Titewad"
+C;X3;K"Unknown"
+C;Y155;X1;K"Hodgdon"
+C;X2;K"Trap 100 (Disc.)"
+C;X3;K"Unknown"
+C;Y156;X1;K"Hodgdon"
+C;X2;K"Universal"
+C;X3;K"Unknown"
+C;Y157;X1;K"Hodgdon"
+C;X2;K"US869"
+C;X3;K"Unknown"
+C;Y158;X1;K"Hodgdon"
+C;X2;K"Varget"
+C;X3;K"Unknown"
+C;Y159;X1;K"Hodgdon"
+C;X2;K"Pyrodex RS"
+C;X3;K"Unknown"
+C;Y160;X1;K"Hodgdon"
+C;X2;K"Pyrodex P"
+C;X3;K"Unknown"
+C;Y161;X1;K"Hodgdon"
+C;X2;K"Pyrodex Select"
+C;X3;K"Unknown"
+C;Y162;X1;K"Hodgdon"
+C;X2;K"Triple 7"
+C;X3;K"Unknown"
+C;Y163;X1;K"IMR"
+C;X2;K"Hi Skor 700x"
+C;X3;K"Unknown"
+C;Y164;X1;K"IMR"
+C;X2;K"Hi Skor 800x"
+C;X3;K"Unknown"
+C;Y165;X1;K"IMR"
+C;X2;K"IMR3031"
+C;X3;K"Unknown"
+C;Y166;X1;K"IMR"
+C;X2;K"IMR4007 S SC"
+C;X3;K"Unknown"
+C;Y167;X1;K"IMR"
+C;X2;K"IMR4064"
+C;X3;K"Unknown"
+C;Y168;X1;K"IMR"
+C;X2;K"IMR4198"
+C;X3;K"Unknown"
+C;Y169;X1;K"IMR"
+C;X2;K"IMR4227"
+C;X3;K"Unknown"
+C;Y170;X1;K"IMR"
+C;X2;K"IMR4320"
+C;X3;K"Unknown"
+C;Y171;X1;K"IMR"
+C;X2;K"IMR4350"
+C;X3;K"Unknown"
+C;Y172;X1;K"IMR"
+C;X2;K"IMR4831"
+C;X3;K"Unknown"
+C;Y173;X1;K"IMR"
+C;X2;K"IMR4895"
+C;X3;K"Unknown"
+C;Y174;X1;K"IMR"
+C;X2;K"IMR7828"
+C;X3;K"Unknown"
+C;Y175;X1;K"IMR"
+C;X2;K"IMR7828ssc"
+C;X3;K"Unknown"
+C;Y176;X1;K"IMR"
+C;X2;K"IMR8208 XBR"
+C;X3;K"Unknown"
+C;Y177;X1;K"IMR"
+C;X2;K"PB"
+C;X3;K"Unknown"
+C;Y178;X1;K"IMR"
+C;X2;K"SR4756"
+C;X3;K"Unknown"
+C;Y179;X1;K"IMR"
+C;X2;K"SR4759"
+C;X3;K"Unknown"
+C;Y180;X1;K"IMR"
+C;X2;K"SR7625"
+C;X3;K"Unknown"
+C;Y181;X1;K"IMR"
+C;X2;K"Trail Boss"
+C;X3;K"Unknown"
+C;Y182;X1;K"Military Surplus"
+C;X2;K"#105 (new)"
+C;X3;K"Unknown"
+C;Y183;X1;K"Military Surplus"
+C;X2;K"#107 (new)"
+C;X3;K"Unknown"
+C;Y184;X1;K"Military Surplus"
+C;X2;K"AA 2520"
+C;X3;K"Unknown"
+C;Y185;X1;K"Military Surplus"
+C;X2;K"AA Scott 453"
+C;X3;K"Unknown"
+C;Y186;X1;K"Military Surplus"
+C;X2;K"AA Solo 1000"
+C;X3;K"Unknown"
+C;Y187;X1;K"Military Surplus"
+C;X2;K"IMR 4895 (pd)"
+C;X3;K"Unknown"
+C;Y188;X1;K"Military Surplus"
+C;X2;K"IMR 5010 (new)"
+C;X3;K"Unknown"
+C;Y189;X1;K"Military Surplus"
+C;X2;K"IMR 5010 (pd)"
+C;X3;K"Unknown"
+C;Y190;X1;K"Military Surplus"
+C;X2;K"IMR 7383 (pd)"
+C;X3;K"Unknown"
+C;Y191;X1;K"Military Surplus"
+C;X2;K"PR 200"
+C;X3;K"Unknown"
+C;Y192;X1;K"Military Surplus"
+C;X2;K"PR 700"
+C;X3;K"Unknown"
+C;Y193;X1;K"Military Surplus"
+F;P0;FG0L;X2
+C;K"Surplus DP 2200"
+C;X3;K"Unknown"
+C;Y194;X1;K"Military Surplus"
+F;P0;FG0L;X2
+C;K"Surplus DP 2230-C"
+C;X3;K"Unknown"
+C;Y195;X1;K"Military Surplus"
+F;P0;FG0L;X2
+C;K"Surplus DP 68"
+C;X3;K"Unknown"
+C;Y196;X1;K"Military Surplus"
+F;P0;FG0L;X2
+C;K"Surplus DP 73"
+C;X3;K"Unknown"
+C;Y197;X1;K"Military Surplus"
+F;P0;FG0L;X2
+C;K"Surplus DP 79"
+C;X3;K"Unknown"
+C;Y198;X1;K"Military Surplus"
+F;P0;FG0L;X2
+C;K"Surplus DP 85"
+C;X3;K"Unknown"
+C;Y199;X1;K"Military Surplus"
+F;P0;FG0L;X2
+C;K"Surplus DP 86"
+C;X3;K"Unknown"
+C;Y200;X1;K"Military Surplus"
+C;X2;K"WC 680 (new)"
+C;X3;K"Unknown"
+C;Y201;X1;K"Military Surplus"
+C;X2;K"WC 750 (pd)"
+C;X3;K"Unknown"
+C;Y202;X1;K"Military Surplus"
+C;X2;K"WC 820 (fast,pd)"
+C;X3;K"Unknown"
+C;Y203;X1;K"Military Surplus"
+C;X2;K"WC 820 (new)"
+C;X3;K"Unknown"
+C;Y204;X1;K"Military Surplus"
+C;X2;K"WC 820 (pd)"
+C;X3;K"Unknown"
+C;Y205;X1;K"Military Surplus"
+C;X2;K"WC 844 (new)"
+C;X3;K"Unknown"
+C;Y206;X1;K"Military Surplus"
+C;X2;K"WC 844 (pd)"
+C;X3;K"Unknown"
+C;Y207;X1;K"Military Surplus"
+C;X2;K"WC 846"
+C;X3;K"Unknown"
+C;Y208;X1;K"Military Surplus"
+C;X2;K"WC 852 (fast)"
+C;X3;K"Unknown"
+C;Y209;X1;K"Military Surplus"
+C;X2;K"WC 852 (pd)"
+C;X3;K"Unknown"
+C;Y210;X1;K"Military Surplus"
+C;X2;K"WC 860 (new)"
+C;X3;K"Unknown"
+C;Y211;X1;K"Military Surplus"
+C;X2;K"WC 860 (pd)"
+C;X3;K"Unknown"
+C;Y212;X1;K"Military Surplus"
+C;X2;K"WC 872 (new)"
+C;X3;K"Unknown"
+C;Y213;X1;K"Nobel"
+C;X2;K"Nobel 78"
+C;X3;K"Unknown"
+C;Y214;X1;K"Nobel"
+C;X2;K"Nobel 80"
+C;X3;K"Unknown"
+C;Y215;X1;K"Nobel"
+C;X2;K"Nobel 82"
+C;X3;K"Unknown"
+C;Y216;X1;K"Nobel"
+C;X2;K"Nobel 84"
+C;X3;K"Unknown"
+C;Y217;X1;K"Nobel"
+C;X2;K"Nobel 86"
+C;X3;K"Unknown"
+C;Y218;X1;K"Nobel"
+C;X2;K"Nobel 89"
+C;X3;K"Unknown"
+C;Y219;X1;K"Nobel"
+C;X2;K"Nobel PP1"
+C;X3;K"Unknown"
+C;Y220;X1;K"Nobel"
+C;X2;K"Pistol 3"
+C;X3;K"Unknown"
+C;Y221;X1;K"Nobel"
+C;X2;K"REV-1"
+C;X3;K"Unknown"
+C;Y222;X1;K"Nobel"
+C;X2;K"REV-3"
+C;X3;K"Unknown"
+C;Y223;X1;K"Nobel"
+C;X2;K"RIF-0"
+C;X3;K"Unknown"
+C;Y224;X1;K"Nobel"
+C;X2;K"RIF-1"
+C;X3;K"Unknown"
+C;Y225;X1;K"Nobel"
+C;X2;K"RIF-2"
+C;X3;K"Unknown"
+C;Y226;X1;K"Nobel"
+C;X2;K"RIF-3"
+C;X3;K"Unknown"
+C;Y227;X1;K"Norma"
+C;X2;K"MRP"
+C;X3;K"Unknown"
+C;Y228;X1;K"Norma"
+C;X2;K"MRP2"
+C;X3;K"Unknown"
+C;Y229;X1;K"Norma"
+C;X2;K"N200"
+C;X3;K"Unknown"
+C;Y230;X1;K"Norma"
+C;X2;K"N201 "
+C;X3;K"Unknown"
+C;Y231;X1;K"Norma"
+C;X2;K"N2010"
+C;X3;K"Unknown"
+C;Y232;X1;K"Norma"
+C;X2;K"N202"
+C;X3;K"Unknown"
+C;Y233;X1;K"Norma"
+C;X2;K"N203"
+C;X3;K"Unknown"
+C;Y234;X1;K"Norma"
+C;X2;K"N203B"
+C;X3;K"Unknown"
+C;Y235;X1;K"Norma"
+C;X2;K"N204"
+C;X3;K"Unknown"
+C;Y236;X1;K"Norma"
+C;X2;K"N205"
+C;X3;K"Unknown"
+C;Y237;X1;K"Norma"
+C;X2;K"R1"
+C;X3;K"Unknown"
+C;Y238;X1;K"Norma"
+C;X2;K"R123"
+C;X3;K"Unknown"
+C;Y239;X1;K"Pioneer"
+C;X2;K"Jim Shockey Gold"
+C;X3;K"Unknown"
+C;Y240;X1;K"Ramshot"
+C;X2;K"Big Game"
+C;X3;K"Unknown "
+C;Y241;X1;K"Ramshot"
+C;X2;K"Competition"
+C;X3;K"Unknown "
+C;Y242;X1;K"Ramshot"
+C;X2;K"Enforcer"
+C;X3;K"Unknown "
+C;Y243;X1;K"Ramshot"
+C;X2;K"Hunter"
+C;X3;K"Unknown "
+C;Y244;X1;K"Ramshot"
+C;X2;K"Magnum"
+C;X3;K"Unknown "
+C;Y245;X1;K"Ramshot"
+C;X2;K"Silhouette"
+C;X3;K"Unknown "
+C;Y246;X1;K"Ramshot"
+C;X2;K"TAC"
+C;X3;K"Unknown "
+C;Y247;X1;K"Ramshot"
+C;X2;K"True Blue"
+C;X3;K"Unknown "
+C;Y248;X1;K"Ramshot"
+C;X2;K"X-terminator"
+C;X3;K"Unknown "
+C;Y249;X1;K"Ramshot"
+C;X2;K"Zip"
+C;X3;K"Unknown "
+C;Y250;X1;K"Rottwiel"
+F;P0;FG0L;X2
+C;K"30 Carbine"
+C;X3;K"Unknown"
+C;Y251;X1;K"Rottwiel"
+F;P0;FG0L;X2
+C;K"P801"
+C;X3;K"Unknown"
+C;Y252;X1;K"Rottwiel"
+F;P0;FG0L;X2
+C;K"P803"
+C;X3;K"Unknown"
+C;Y253;X1;K"Rottwiel"
+F;P0;FG0L;X2
+C;K"P804"
+C;X3;K"Unknown"
+C;Y254;X1;K"Rottwiel"
+F;P0;FG0L;X2
+C;K"P805"
+C;X3;K"Unknown"
+C;Y255;X1;K"Rottwiel"
+F;P0;FG0L;X2
+C;K"P806"
+C;X3;K"Unknown"
+C;Y256;X1;K"Rottwiel"
+F;P40;FI0L;X2
+C;K"R901"
+C;X3;K"Unknown"
+C;Y257;X1;K"Rottwiel"
+F;P0;FG0L;X2
+C;K"R902"
+C;X3;K"Unknown"
+C;Y258;X1;K"Rottwiel"
+F;P0;FG0L;X2
+C;K"R903"
+C;X3;K"Unknown"
+C;Y259;X1;K"Rottwiel"
+F;P0;FG0L;X2
+C;K"R904"
+C;X3;K"Unknown"
+C;Y260;X1;K"Rottwiel"
+F;P0;FG0L;X2
+C;K"R905"
+C;X3;K"Unknown"
+C;Y261;X1;K"Rottwiel"
+F;P0;FG0L;X2
+C;K"R907"
+C;X3;K"Unknown"
+C;Y262;X1;K"Rottwiel"
+F;P0;FG0L;X2
+C;K"R910"
+C;X3;K"Unknown"
+C;Y263;X1;K"Scot"
+F;P0;FG0L;X2
+C;K453
+C;X3;K"Unknown"
+C;Y264;X1;K"Scot"
+F;P0;FG0L;X2
+C;K"Brigadier 3032"
+C;X3;K"Unknown"
+C;Y265;X1;K"Scot"
+F;P0;FG0L;X2
+C;K"Brigadier 4065"
+C;X3;K"Unknown"
+C;Y266;X1;K"Scot"
+F;P0;FG0L;X2
+C;K"Brigadier 4197"
+C;X3;K"Unknown"
+C;Y267;X1;K"Scot"
+F;P0;FG0L;X2
+C;K"Brigadier 4351"
+C;X3;K"Unknown"
+C;Y268;X1;K"Scot"
+F;P0;FG0L;X2
+C;K"Pearl Scot"
+C;X3;K"Unknown"
+C;Y269;X1;K"Scot"
+F;P0;FG0L;X2
+C;K"Royal Scot"
+C;X3;K"Unknown"
+C;Y270;X1;K"Scot"
+F;P0;FG0L;X2
+C;K"Solo 1000"
+C;X3;K"Unknown"
+C;Y271;X1;K"Scot"
+F;P0;FG0L;X2
+C;K"Solo 1250"
+C;X3;K"Unknown"
+C;Y272;X1;K"Scot"
+F;P0;FG0L;X2
+C;K"Solo 1500"
+C;X3;K"Unknown"
+C;Y273;X1;K"Somchem"
+C;X2;K"B12.7"
+C;X3;K"Unknown"
+C;Y274;X1;K"Somchem"
+C;X2;K"MP200"
+C;X3;K"Unknown"
+C;Y275;X1;K"Somchem"
+C;X2;K"MS200"
+C;X3;K"Unknown"
+C;Y276;X1;K"Somchem"
+C;X2;K"S121"
+C;X3;K"Unknown"
+C;Y277;X1;K"Somchem"
+C;X2;K"S221"
+C;X3;K"Unknown"
+C;Y278;X1;K"Somchem"
+C;X2;K"S265"
+C;X3;K"Unknown"
+C;Y279;X1;K"Somchem"
+C;X2;K"S321"
+C;X3;K"Unknown"
+C;Y280;X1;K"Somchem"
+C;X2;K"S335"
+C;X3;K"Unknown"
+C;Y281;X1;K"Somchem"
+C;X2;K"S341"
+C;X3;K"Unknown"
+C;Y282;X1;K"Somchem"
+C;X2;K"S355"
+C;X3;K"Unknown"
+C;Y283;X1;K"Somchem"
+C;X2;K"S361 (Disc.)"
+C;X3;K"Unknown"
+C;Y284;X1;K"Somchem"
+C;X2;K"S365"
+C;X3;K"Unknown"
+C;Y285;X1;K"Somchem"
+C;X2;K"S371"
+C;X3;K"Unknown"
+C;Y286;X1;K"Somchem"
+C;X2;K"S385"
+C;X3;K"Unknown"
+C;Y287;X1;K"Vectan"
+C;X2;K"A1"
+C;X3;K"Unknown"
+C;Y288;X1;K"Vectan"
+C;X2;K"AO"
+C;X3;K"Unknown"
+C;Y289;X1;K"Vectan"
+C;X2;K"AS"
+C;X3;K"Unknown"
+C;Y290;X1;K"Vectan"
+C;X2;K"BA 10"
+C;X3;K"Unknown"
+C;Y291;X1;K"Vectan"
+C;X2;K"BA 6"
+C;X3;K"Unknown"
+C;Y292;X1;K"Vectan"
+C;X2;K"BA 9"
+C;X3;K"Unknown"
+C;Y293;X1;K"Vectan"
+C;X2;K"SP 10"
+C;X3;K"Unknown"
+C;Y294;X1;K"Vectan"
+C;X2;K"SP 12 (Disc.)"
+C;X3;K"Unknown"
+C;Y295;X1;K"Vectan"
+C;X2;K"SP 13"
+C;X3;K"Unknown"
+C;Y296;X1;K"Vectan"
+C;X2;K"SP 2"
+C;X3;K"Unknown"
+C;Y297;X1;K"Vectan"
+C;X2;K"SP 3"
+C;X3;K"Unknown"
+C;Y298;X1;K"Vectan"
+C;X2;K"SP 7"
+C;X3;K"Unknown"
+C;Y299;X1;K"Vectan"
+C;X2;K"SP 8"
+C;X3;K"Unknown"
+C;Y300;X1;K"Vectan"
+C;X2;K"SP 9"
+C;X3;K"Unknown"
+C;Y301;X1;K"Vectan"
+C;X2;K"TU 2000"
+C;X3;K"Unknown"
+C;Y302;X1;K"Vectan"
+C;X2;K"TU 3000"
+C;X3;K"Unknown"
+C;Y303;X1;K"Vectan"
+C;X2;K"TU 5000"
+C;X3;K"Unknown"
+C;Y304;X1;K"Vectan"
+C;X2;K"TU 7000"
+C;X3;K"Unknown"
+C;Y305;X1;K"Vectan"
+C;X2;K"TU 8000"
+C;X3;K"Unknown"
+F;SM6;Y306;X1
+C;K"Vihtavuori"
+F;SM6;X2
+C;K"20N29"
+F;SM6;X3
+C;K"Unknown"
+F;SM6;X4
+F;SM92;X5
+C;Y307;X1;K"Vihtavuori"
+C;X2;K"24N41"
+C;X3;K"Unknown"
+C;Y308;X1;K"Vihtavuori"
+C;X2;K"3N37"
+C;X3;K"Unknown"
+C;Y309;X1;K"Vihtavuori"
+C;X2;K"3N38"
+C;X3;K"Unknown"
+C;Y310;X1;K"Vihtavuori"
+C;X2;K"N105"
+C;X3;K"Unknown"
+C;Y311;X1;K"Vihtavuori"
+C;X2;K"N110"
+C;X3;K"Unknown"
+C;Y312;X1;K"Vihtavuori"
+C;X2;K"N120"
+C;X3;K"Unknown"
+C;Y313;X1;K"Vihtavuori"
+C;X2;K"N125"
+C;X3;K"Unknown"
+C;Y314;X1;K"Vihtavuori"
+C;X2;K"N130"
+C;X3;K"Unknown"
+C;Y315;X1;K"Vihtavuori"
+C;X2;K"N132"
+C;X3;K"Unknown"
+C;Y316;X1;K"Vihtavuori"
+C;X2;K"N133"
+C;X3;K"Unknown"
+C;Y317;X1;K"Vihtavuori"
+C;X2;K"N134"
+C;X3;K"Unknown"
+C;Y318;X1;K"Vihtavuori"
+C;X2;K"N135"
+C;X3;K"Unknown"
+C;Y319;X1;K"Vihtavuori"
+C;X2;K"N140"
+C;X3;K"Unknown"
+C;Y320;X1;K"Vihtavuori"
+C;X2;K"N150"
+C;X3;K"Unknown"
+C;Y321;X1;K"Vihtavuori"
+C;X2;K"N160"
+C;X3;K"Unknown"
+C;Y322;X1;K"Vihtavuori"
+C;X2;K"N165"
+C;X3;K"Unknown"
+C;Y323;X1;K"Vihtavuori"
+C;X2;K"N170"
+C;X3;K"Unknown"
+C;Y324;X1;K"Vihtavuori"
+C;X2;K"N310"
+C;X3;K"Unknown"
+C;Y325;X1;K"Vihtavuori"
+C;X2;K"N312"
+C;X3;K"Unknown"
+C;Y326;X1;K"Vihtavuori"
+C;X2;K"N318"
+C;X3;K"Unknown"
+C;Y327;X1;K"Vihtavuori"
+C;X2;K"N320"
+C;X3;K"Unknown"
+C;Y328;X1;K"Vihtavuori"
+C;X2;K"N321"
+C;X3;K"Unknown"
+C;Y329;X1;K"Vihtavuori"
+C;X2;K"N324"
+C;X3;K"Unknown"
+C;Y330;X1;K"Vihtavuori"
+C;X2;K"N325"
+C;X3;K"Unknown"
+C;Y331;X1;K"Vihtavuori"
+C;X2;K"N330"
+C;X3;K"Unknown"
+C;Y332;X1;K"Vihtavuori"
+C;X2;K"N331"
+C;X3;K"Unknown"
+C;Y333;X1;K"Vihtavuori"
+C;X2;K"N340"
+C;X3;K"Unknown"
+C;Y334;X1;K"Vihtavuori"
+C;X2;K"N350"
+C;X3;K"Unknown"
+C;Y335;X1;K"Vihtavuori"
+C;X2;K"N540"
+C;X3;K"Unknown"
+C;Y336;X1;K"Vihtavuori"
+C;X2;K"N550"
+C;X3;K"Unknown"
+C;Y337;X1;K"Vihtavuori"
+C;X2;K"N560"
+C;X3;K"Unknown"
+C;Y338;X1;K"WANO"
+F;P0;FG0L;X2
+C;K"F"
+C;X3;K"Unknown"
+C;Y339;X1;K"WANO"
+F;P0;FG0L;X2
+C;K"FF"
+C;X3;K"Unknown"
+C;Y340;X1;K"WANO"
+F;P0;FG0L;X2
+C;K"FFF"
+C;X3;K"Unknown"
+C;Y341;X1;K"WANO"
+F;P0;FG0L;X2
+C;K"FFFF"
+C;X3;K"Unknown"
+C;Y342;X1;K"WANO"
+F;P0;FG0L;X2
+C;K"P"
+C;X3;K"Unknown"
+C;Y343;X1;K"WANO"
+F;P0;FG0L;X2
+C;K"PP"
+C;X3;K"Unknown"
+C;Y344;X1;K"WANO"
+F;P0;FG0L;X2
+C;K"PPP"
+C;X3;K"Unknown"
+C;Y345;X1;K"Winchester"
+C;X2;K"W231"
+C;X3;K"Unknown"
+C;Y346;X1;K"Winchester"
+C;X2;K"W296"
+C;X3;K"Unknown"
+C;Y347;X1;K"Winchester"
+C;X2;K"W452 (Disc.)"
+C;X3;K"Unknown"
+C;Y348;X1;K"Winchester"
+C;X2;K"W473"
+C;X3;K"Unknown"
+C;Y349;X1;K"Winchester"
+C;X2;K"W540"
+C;X3;K"Unknown"
+C;Y350;X1;K"Winchester"
+C;X2;K"W571"
+C;X3;K"Unknown"
+C;Y351;X1;K"Winchester"
+C;X2;K"W630"
+C;X3;K"Unknown"
+C;Y352;X1;K"Winchester"
+C;X2;K"W680 (Disc.)"
+C;X3;K"Unknown"
+C;Y353;X1;K"Winchester"
+C;X2;K"W748"
+C;X3;K"Unknown"
+C;Y354;X1;K"Winchester"
+C;X2;K"W760"
+C;X3;K"Unknown"
+C;Y355;X1;K"Winchester"
+C;X2;K"W785 (Disc.)"
+C;X3;K"Unknown"
+C;Y356;X1;K"Winchester"
+C;X2;K"W870 (Disc.)"
+C;X3;K"Unknown"
+C;Y357;X1;K"Winchester"
+C;X2;K"WAP (Disc.)"
+C;X3;K"Unknown"
+C;Y358;X1;K"Winchester"
+C;X2;K"WMR (Disc.)"
+C;X3;K"Unknown"
+C;Y359;X1;K"Winchester"
+C;X2;K"WSF"
+C;X3;K"Unknown"
+C;Y360;X1;K"Winchester"
+C;X2;K"WSL (Disc.)"
+C;X3;K"Unknown"
+C;Y361;X1;K"Winchester"
+C;X2;K"WST"
+C;X3;K"Unknown"
+C;Y362;X1;K"Winchester"
+C;X2;K"WXR"
+C;X3;K"Unknown"
+E

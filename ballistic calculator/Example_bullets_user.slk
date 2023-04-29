@@ -1,0 +1,156 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0_);;\(#,##0\)
+P;P#,##0_);;[Red]\(#,##0\)
+P;P#,##0.00_);;\(#,##0.00\)
+P;P#,##0.00_);;[Red]\(#,##0.00\)
+P;P"$"#,##0_);;\("$"#,##0\)
+P;P"$"#,##0_);;[Red]\("$"#,##0\)
+P;P"$"#,##0.00_);;\("$"#,##0.00\)
+P;P"$"#,##0.00_);;[Red]\("$"#,##0.00\)
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pm/d/yyyy
+P;Pd\-mmm\-yy
+P;Pd\-mmm
+P;Pmmm\-yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pm/d/yyyy\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_("$"* #,##0_);;_("$"* \(#,##0\);;_("$"* "-"_);;_(@_)
+P;P_(* #,##0_);;_(* \(#,##0\);;_(* "-"_);;_(@_)
+P;P_("$"* #,##0.00_);;_("$"* \(#,##0.00\);;_("$"* "-"??_);;_(@_)
+P;P_(* #,##0.00_);;_(* \(#,##0.00\);;_(* "-"??_);;_(@_)
+P;P.000
+P;P.0000
+P;P0.000
+P;P.00
+P;P\$#,##0_);;[Red]"($"#,##0\)
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;ECalibri;M220;L9
+P;ECambria;M360;SB;L57
+P;ECalibri;M300;SB;L57
+P;ECalibri;M260;SB;L57
+P;ECalibri;M220;SB;L57
+P;ECalibri;M220;L18
+P;ECalibri;M220;L21
+P;ECalibri;M220;L61
+P;ECalibri;M220;L63
+P;ECalibri;M220;SB;L64
+P;ECalibri;M220;SB;L53
+P;ECalibri;M220;L53
+P;ECalibri;M220;SB;L10
+P;ECalibri;M220;L11
+P;ECalibri;M220;SI;L24
+P;ECalibri;M220;SB;L9
+P;ECalibri;M220;L10
+P;EArial;M200
+P;EArial;M200
+P;EArial;M200
+P;EArial;M200
+P;EArial;M200
+P;EArial;M200
+P;EArial;M200
+P;EArial;M200
+P;EArial;M200
+P;EArial;M200;SB
+P;EArial;M200;L9
+P;EVerdana;M200;L9
+P;EArial;M160
+F;P0;DG0G8;M255
+B;Y2688;X6;D0 0 2687 5
+O;L;D;V0;K47;G100 0.001
+F;W1 1 14
+F;W2 3 5
+F;W4 4 33
+F;W5 6 6
+F;W7 256 11
+F;P0;FG0L;C2
+F;P0;FG0L;C3
+F;P0;FG0L;C5
+F;P0;FG0L;C6
+F;M270;R2688
+C;Y1;X1;K";;------------------------------------------------------------------"
+F;P36;FF3L;X2
+F;P36;FF3L;X5
+F;P36;FF3L;X6
+C;Y2;X1;K";;"
+F;P36;FF3L;X2
+F;P36;FF3L;X5
+F;P36;FF3L;X6
+C;Y3;X1;K";; Data file Format is as follows:"
+F;P36;FF3L;X2
+F;P36;FF3L;X5
+F;P36;FF3L;X6
+C;Y4;X1;K";; "
+F;P36;FF3L;X2
+F;P36;FF3L;X5
+F;P36;FF3L;X6
+C;Y5;X1;K";;    Lines may be commented out by a preceeding semi-colon"
+F;P36;FF3L;X2
+F;P36;FF3L;X5
+F;P36;FF3L;X6
+C;Y6;X1;K";;"
+F;P36;FF3L;X2
+F;P36;FF3L;X5
+F;P36;FF3L;X6
+C;Y7;X1;K";;    No single field may be more than 64 characters"
+F;P36;FF3L;X2
+F;P36;FF3L;X5
+F;P36;FF3L;X6
+C;Y8;X1;K";;"
+F;P36;FF3L;X2
+F;P36;FF3L;X5
+F;P36;FF3L;X6
+C;Y9;X1;K";;    Bullet information"
+F;P36;FF3L;X2
+F;P36;FF3L;X5
+F;P36;FF3L;X6
+F;P36;FF3L;Y10;X2
+F;P36;FF3L;X5
+F;P36;FF3L;X6
+C;Y11;X1;K";;Brand"
+F;P36;FF3L;X2
+C;K"Dia."
+C;X3;K"Wt."
+C;X4;K"Description"
+F;P36;FF3L;X5
+C;K"BC"
+F;P36;FF3L;X6
+C;K"SD"
+C;Y12;X1;K";;-----------------------------------------------------------------"
+F;P36;FF3L;X2
+F;P36;FF3L;X5
+F;P36;FF3L;X6
+F;SDM31;Y13;X1
+C;K";; Example of User Data (delete the Semi-Colon on the next line to enable)"
+F;P36;FF3L;X2
+F;P36;FF3L;X5
+F;P36;FF3L;X6
+C;Y14;X1;K";; My Custom "
+F;P36;FF3L;X2
+C;K0.284
+C;X3;K175
+C;X4;K"This is an example of a user data entry"
+F;P36;FF3L;X5
+C;K0.311
+F;P36;FF3L;X6
+C;K0.309958341598889
+E

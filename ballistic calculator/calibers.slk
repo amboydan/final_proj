@@ -1,0 +1,1342 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0_);;\(#,##0\)
+P;P#,##0_);;[Red]\(#,##0\)
+P;P#,##0.00_);;\(#,##0.00\)
+P;P#,##0.00_);;[Red]\(#,##0.00\)
+P;P"$"#,##0_);;\("$"#,##0\)
+P;P"$"#,##0_);;[Red]\("$"#,##0\)
+P;P"$"#,##0.00_);;\("$"#,##0.00\)
+P;P"$"#,##0.00_);;[Red]\("$"#,##0.00\)
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pm/d/yyyy
+P;Pd\-mmm\-yy
+P;Pd\-mmm
+P;Pmmm\-yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pm/d/yyyy\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_("$"* #,##0_);;_("$"* \(#,##0\);;_("$"* "-"_);;_(@_)
+P;P_(* #,##0_);;_(* \(#,##0\);;_(* "-"_);;_(@_)
+P;P_("$"* #,##0.00_);;_("$"* \(#,##0.00\);;_("$"* "-"??_);;_(@_)
+P;P_(* #,##0.00_);;_(* \(#,##0.00\);;_(* "-"??_);;_(@_)
+P;P.000
+P;P.0000
+P;P0.000
+P;P.00
+P;P\$#,##0_);;[Red]"($"#,##0\)
+P;P"Yes";;"Yes";;"No"
+P;P"True";;"True";;"False"
+P;P"On";;"On";;"Off"
+P;P[$(0-2]\ #,##0.00_);;[Red]\([$(0-2]\ #,##0.00\)
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;ECalibri;M220;L9
+P;ECambria;M360;SB;L57
+P;ECalibri;M300;SB;L57
+P;ECalibri;M260;SB;L57
+P;ECalibri;M220;SB;L57
+P;ECalibri;M220;L18
+P;ECalibri;M220;L21
+P;ECalibri;M220;L61
+P;ECalibri;M220;L63
+P;ECalibri;M220;SB;L64
+P;ECalibri;M220;SB;L53
+P;ECalibri;M220;L53
+P;ECalibri;M220;SB;L10
+P;ECalibri;M220;L11
+P;ECalibri;M220;SI;L24
+P;ECalibri;M220;SB;L9
+P;ECalibri;M220;L10
+P;ECalibri;M220;L9
+P;ECambria;M360;SB;L57
+P;ECalibri;M300;SB;L57
+P;ECalibri;M260;SB;L57
+P;ECalibri;M220;SB;L57
+P;ECalibri;M220;L18
+P;ECalibri;M220;L21
+P;ECalibri;M220;L61
+P;ECalibri;M220;L63
+P;ECalibri;M220;SB;L64
+P;ECalibri;M220;SB;L53
+P;ECalibri;M220;L53
+P;ECalibri;M220;SB;L10
+P;ECalibri;M220;L11
+P;ECalibri;M220;SI;L24
+P;ECalibri;M220;SB;L9
+P;ECalibri;M220;L10
+P;ECalibri;M220;L9
+P;ECambria;M360;SB;L57
+P;ECalibri;M300;SB;L57
+P;ECalibri;M260;SB;L57
+P;ECalibri;M220;SB;L57
+P;ECalibri;M220;L18
+P;ECalibri;M220;L21
+P;ECalibri;M220;L61
+P;ECalibri;M220;L63
+P;ECalibri;M220;SB;L64
+P;ECalibri;M220;SB;L53
+P;ECalibri;M220;L53
+P;ECalibri;M220;SB;L10
+P;ECalibri;M220;L11
+P;ECalibri;M220;SI;L24
+P;ECalibri;M220;SB;L9
+P;ECalibri;M220;L10
+P;ECalibri;M220;L9
+P;ECambria;M360;SB;L57
+P;ECalibri;M300;SB;L57
+P;ECalibri;M260;SB;L57
+P;ECalibri;M220;SB;L57
+P;ECalibri;M220;L18
+P;ECalibri;M220;L21
+P;ECalibri;M220;L61
+P;ECalibri;M220;L63
+P;ECalibri;M220;SB;L64
+P;ECalibri;M220;SB;L53
+P;ECalibri;M220;L53
+P;ECalibri;M220;SB;L10
+P;ECalibri;M220;L11
+P;ECalibri;M220;SI;L24
+P;ECalibri;M220;SB;L9
+P;ECalibri;M220;L10
+P;ECalibri;M220;L9
+P;ECambria;M360;SB;L57
+P;ECalibri;M300;SB;L57
+P;ECalibri;M260;SB;L57
+P;ECalibri;M220;SB;L57
+P;ECalibri;M220;L18
+P;ECalibri;M220;L21
+P;ECalibri;M220;L61
+P;ECalibri;M220;L63
+P;ECalibri;M220;SB;L64
+P;ECalibri;M220;SB;L53
+P;ECalibri;M220;L53
+P;ECalibri;M220;SB;L10
+P;ECalibri;M220;L11
+P;ECalibri;M220;SI;L24
+P;ECalibri;M220;SB;L9
+P;ECalibri;M220;L10
+P;ECalibri;M220;L9
+P;ECambria;M360;SB;L57
+P;ECalibri;M300;SB;L57
+P;ECalibri;M260;SB;L57
+P;ECalibri;M220;SB;L57
+P;ECalibri;M220;L18
+P;ECalibri;M220;L21
+P;ECalibri;M220;L61
+P;ECalibri;M220;L63
+P;ECalibri;M220;SB;L64
+P;ECalibri;M220;SB;L53
+P;ECalibri;M220;L53
+P;ECalibri;M220;SB;L10
+P;ECalibri;M220;L11
+P;ECalibri;M220;SI;L24
+P;ECalibri;M220;SB;L9
+P;ECalibri;M220;L10
+P;ECalibri;M220;L9
+P;ECambria;M360;SB;L57
+P;ECalibri;M300;SB;L57
+P;ECalibri;M260;SB;L57
+P;ECalibri;M220;SB;L57
+P;ECalibri;M220;L18
+P;ECalibri;M220;L21
+P;ECalibri;M220;L61
+P;ECalibri;M220;L63
+P;ECalibri;M220;SB;L64
+P;ECalibri;M220;SB;L53
+P;ECalibri;M220;L53
+P;ECalibri;M220;SB;L10
+P;ECalibri;M220;L11
+P;ECalibri;M220;SI;L24
+P;ECalibri;M220;SB;L9
+P;ECalibri;M220;L10
+P;ECalibri;M220;L9
+P;ECambria;M360;SB;L57
+P;ECalibri;M300;SB;L57
+P;ECalibri;M260;SB;L57
+P;ECalibri;M220;SB;L57
+P;ECalibri;M220;L18
+P;ECalibri;M220;L21
+P;ECalibri;M220;L61
+P;ECalibri;M220;L63
+P;ECalibri;M220;SB;L64
+P;ECalibri;M220;SB;L53
+P;ECalibri;M220;L53
+P;ECalibri;M220;SB;L10
+P;ECalibri;M220;L11
+P;ECalibri;M220;SI;L24
+P;ECalibri;M220;SB;L9
+P;ECalibri;M220;L10
+P;EArial;M200
+P;EArial;M200
+P;EArial;M200
+P;EArial;M200;SB
+P;EArial;M200;L9
+P;EVerdana;M200;L9
+P;EArial;M160
+P;EArial;M200
+P;EArial;M200;SB
+P;EArial;M200
+P;EArial;M200
+P;EArial;M200;SB
+P;EArial;M200
+P;EArial;M200;SB
+F;P0;DG0G8;M255
+B;Y599;X2;D0 0 598 1
+O;L;D;V0;K47;G100 0.001
+F;W1 1 10
+F;W2 2 31
+F;W3 256 11
+F;M270;R341
+F;M210;R376
+C;Y1;X1;K";;---------------------------------------------------------"
+C;Y2;K";; Special Thanks to the following for updating the  "
+C;Y3;K";; Calibers Database for 2006."
+C;Y4;K";;"
+C;Y5;K";;"
+C;Y6;K";; Data file Format is as follows:"
+C;Y7;K";; "
+C;Y8;K";;   Lines may be commented out by a preceeding semi-colon"
+C;Y9;K";;"
+C;Y10;K";;   No single field may be more than 64 characters"
+C;Y11;K";;"
+C;Y12;K";; Diameter"
+C;X2;K"Name"
+C;Y13;X1;K";;---------------------------------------------------------"
+F;SDM149;Y15
+C;K";; Diameter .014"
+C;Y16;K0.14
+C;X2;K"14-222 Remington"
+C;Y17;X1;K0.14
+C;X2;K"14 Walker"
+F;SDM149;Y19;X1
+C;K";;  Diameter .172"
+C;Y20;K0.172
+C;X2;K".17 HM2"
+C;Y21;X1;K0.172
+C;X2;K".17 HMR"
+C;Y22;X1;K0.172
+C;X2;K".17 Bee"
+C;Y23;X1;K0.172
+C;X2;K".17 Bee Improved"
+C;Y24;X1;K0.172
+C;X2;K".17 Flintstone"
+C;Y25;X1;K0.172
+C;X2;K".17 Hornet Improved"
+C;Y26;X1;K0.172
+C;X2;K".17 Javalina"
+C;Y27;X1;K0.172
+C;X2;K".17 Mach IV"
+C;Y28;X1;K0.172
+C;X2;K".17 Pee Wee"
+C;Y29;X1;K0.172
+C;X2;K".17 Remington"
+C;Y30;X1;K0.172
+C;X2;K".17-222 Remington"
+C;Y31;X1;K0.172
+C;X2;K".17-222 Remington Mag"
+C;Y32;X1;K0.172
+F;P0;FG0L;X2
+C;K".17-223 Remington"
+C;Y33;X1;K0.172
+F;P0;FG0L;X2
+C;K".17 Bumble Bee"
+C;Y34;X1;K0.172
+C;X2;K".17 Mach III"
+F;SDM149;Y36;X1
+C;K";;  Diameter .196"
+F;SM148;Y37
+C;K0.196
+C;X2;K"5mm-223 Remington"
+F;SM148;Y38;X1
+F;SDM149;Y39
+C;K";;  Diameter .204"
+C;Y40;K0.204
+C;X2;K"20 Tactical"
+F;SM148;Y41;X1
+C;K0.204
+C;X2;K"204 Ruger"
+F;SM148;Y42;X1
+F;SDM149;Y43
+C;K";;  Diameter .222"
+C;Y44;K0.222
+C;X2;K".218 Bee"
+F;SM148;Y45;X1
+C;K0.222
+C;X2;K".22 Remington Jet"
+F;SM148;Y46;X1
+F;SDM149;Y47
+C;K";;  Diameter .223"
+C;Y48;K0.223
+C;X2;K".22 Hornet"
+C;Y49;X1;K0.223
+C;X2;K".22 K Hornet"
+F;SDM149;Y51;X1
+C;K";;  Diameter .224"
+F;SM150;Y52
+C;K0.224
+F;SM150;X2
+C;K".22 Short Rimfire"
+F;SM150;Y53;X1
+C;K0.224
+F;SM150;X2
+C;K".22 LR Rimfire"
+F;SM150;Y54;X1
+C;K0.224
+F;SM150;X2
+C;K".22 Mag Rimfire"
+C;Y55;X1;K0.224
+C;X2;K".219 Donaldson Wasp"
+C;Y56;X1;K0.224
+C;X2;K".219 Zipper"
+C;Y57;X1;K0.224
+C;X2;K".219 Zipper Improved"
+C;Y58;X1;K0.224
+C;X2;K".22 Benchrest"
+C;Y59;X1;K0.224
+C;X2;K".22 Carbine"
+C;Y60;X1;K0.224
+C;X2;K".22 CHeeta Mk II"
+C;Y61;X1;K0.224
+C;X2;K".22 Eargesplitten"
+C;Y62;X1;K0.224
+C;X2;K".22 Newton"
+C;Y63;X1;K0.224
+C;X2;K".22 PPC"
+C;Y64;X1;K0.224
+C;X2;K".22 Waldog"
+C;Y65;X1;K0.224
+C;X2;K".22 WCF"
+C;Y66;X1;K0.224
+C;X2;K".22/06 Easling"
+C;Y67;X1;K0.224
+C;X2;K".22/30-30 Improved"
+C;Y68;X1;K0.224
+C;X2;K".22/6.5x54"
+C;Y69;X1;K0.224
+C;X2;K".22-15-60 Stevens"
+C;Y70;X1;K0.224
+C;X2;K".22-243 Middlestead"
+C;Y71;X1;K0.224
+C;X2;K".22-250 Remington"
+C;Y72;X1;K0.224
+C;X2;K".22-250 Remington Imp."
+C;Y73;X1;K0.224
+C;X2;K".22-284 Winchester"
+C;Y74;X1;K0.224
+C;X2;K".22-303 Falcon"
+C;Y75;X1;K0.224
+C;X2;K".22-303 Sprinter"
+C;Y76;X1;K0.224
+C;X2;K".22-303 Swift"
+C;Y77;X1;K0.224
+C;X2;K".22-350 Remington"
+C;Y78;X1;K0.224
+C;X2;K".220 Jaybird"
+C;Y79;X1;K0.224
+C;X2;K".220 Russian"
+C;Y80;X1;K0.224
+C;X2;K".220 Swift"
+C;Y81;X1;K0.224
+C;X2;K".220 Weatherby"
+C;Y82;X1;K0.224
+C;X2;K".220 Wotkyns-Wilson"
+C;Y83;X1;K0.224
+C;X2;K".221 Remington Fireball"
+C;Y84;X1;K0.224
+C;X2;K".222 Remington"
+C;Y85;X1;K0.224
+C;X2;K".222 Remington Magnum"
+C;Y86;X1;K0.224
+C;X2;K".222 Rimmed"
+C;Y87;X1;K0.224
+C;X2;K".223 Remington"
+C;Y88;X1;K0.224
+C;X2;K".223 WSSM"
+C;Y89;X1;K0.224
+C;X2;K".224 Clark"
+C;Y90;X1;K0.224
+C;X2;K".224 R-C Maxi"
+C;Y91;X1;K0.224
+C;X2;K".224 Stark"
+C;Y92;X1;K0.224
+C;X2;K".224 Weatherby"
+C;Y93;X1;K0.224
+C;X2;K".225 Winchester"
+C;Y94;X1;K0.224
+C;X2;K"2R Lovell"
+C;Y95;X1;K0.224
+C;X2;K"5.56x50mm Magnum"
+C;Y96;X1;K0.224
+C;X2;K"5.6x35R"
+C;Y97;X1;K0.224
+C;X2;K"5.6x50R Magnum"
+C;Y98;X1;K0.224
+C;X2;K"5.6x57mm RWS"
+C;Y99;X1;K0.224
+C;X2;K"5.7mm MMJ"
+F;SDM149;Y101;X1
+C;K";;  Diameter .227"
+C;Y102;K0.227
+C;X2;K".22 Savage Hi-Power"
+F;SDM149;Y104;X1
+C;K";;  Diameter .228"
+C;Y105;K0.228
+C;X2;K".228-284 R&M"
+F;SDM149;Y107;X1
+C;K";;  Diameter .23"
+C;Y108;K0.23
+C;X2;K"230 Ackley Short"
+F;SDM149;Y110;X1
+C;K";;  Diameter .243"
+C;Y111;K0.243
+C;X2;K".240 Cobra"
+C;Y112;X1;K0.243
+C;X2;K".240 SGW"
+C;Y113;X1;K0.243
+C;X2;K".240 Weatherby"
+C;Y114;X1;K0.243
+C;X2;K".243 Flash"
+C;Y115;X1;K0.243
+C;X2;K".243 Improved"
+C;Y116;X1;K0.243
+C;X2;K".243 Page"
+C;Y117;X1;K0.243
+C;X2;K".243 Rockchucker"
+C;Y118;X1;K0.243
+C;X2;K".243 Rockchucker Super"
+C;Y119;X1;K0.243
+C;X2;K".243 Spitfire"
+C;Y120;X1;K0.243
+C;X2;K".243 Winchester"
+C;Y121;X1;K0.243
+C;X2;K".243 WSSM"
+C;Y122;X1;K0.243
+C;X2;K".243/.303"
+C;Y123;X1;K0.243
+C;X2;K"6x47mm"
+C;Y124;X1;K0.243
+C;X2;K"6x62 Freres"
+C;Y125;X1;K0.243
+C;X2;K"6mm Arch"
+C;Y126;X1;K0.243
+C;X2;K"6mm Benchrest (Norma)"
+C;Y127;X1;K0.243
+C;X2;K"6mm Benchrest (Rem)"
+C;Y128;X1;K0.243
+C;X2;K"6mm Express Junior"
+C;Y129;X1;K0.243
+C;X2;K"6mm International"
+C;Y130;X1;K0.243
+C;X2;K"6mm Lee Navy"
+C;Y131;X1;K0.243
+C;X2;K"6mm Pipsqueak"
+C;Y132;X1;K0.243
+C;X2;K"6mm PPC"
+C;Y133;X1;K0.243
+C;X2;K"6mm Remington"
+C;Y134;X1;K0.243
+C;X2;K"6mm Rem. Improved"
+C;Y135;X1;K0.243
+C;X2;K"6mm/30-30 Improved"
+C;Y136;X1;K0.243
+C;X2;K"6mm/6.5x54"
+C;Y137;X1;K0.243
+C;X2;K"6mm-222 Remington"
+C;Y138;X1;K0.243
+C;X2;K"6mm-223 Remington"
+C;Y139;X1;K0.243
+C;X2;K"6mm-224 Weatherby"
+C;Y140;X1;K0.243
+C;X2;K"6mm-225 Winchester"
+C;Y141;X1;K0.243
+C;X2;K"6mm-250 Savage"
+C;Y142;X1;K0.243
+C;X2;K"6mm-284 Winchester"
+C;Y143;X1;K0.243
+C;X2;K"6mm-350 Remington"
+C;Y144;X1;K0.243
+C;X2;K"6mm Benchrest"
+C;Y145;X1;K0.243
+C;X2;K"6mm T.C.U."
+F;SDM149;Y147;X1
+C;K";;  Diameter .251"
+C;Y148;K0.251
+C;X2;K"25 ACP"
+F;SDM149;Y150;X1
+C;K";;  Diameter .257"
+C;Y151;K0.257
+C;X2;K".25 Gibbs"
+C;Y152;X1;K0.257
+C;X2;K".25 Hornet"
+C;Y153;X1;K0.257
+C;X2;K".25 ICL Magnum"
+C;Y154;X1;K0.257
+C;X2;K".25 Remington"
+C;Y155;X1;K0.257
+C;X2;K".25 TCU"
+C;Y156;X1;K0.257
+C;X2;K".25 Tomcat"
+C;Y157;X1;K0.257
+C;X2;K".25 WSSM"
+C;Y158;X1;K0.257
+C;X2;K".25-06 Remington"
+C;Y159;X1;K0.257
+C;X2;K".25-06 Rem. Improved"
+C;Y160;X1;K0.257
+C;X2;K".25-20 WCF"
+C;Y161;X1;K0.257
+C;X2;K".25-25 Stevens"
+C;Y162;X1;K0.257
+C;X2;K".25-35 Winchester"
+C;Y163;X1;K0.257
+C;X2;K".25-36 Marlin"
+C;Y164;X1;K0.257
+C;X2;K".25-224 Weatherby"
+C;Y165;X1;K0.257
+C;X2;K".25-284 Winchester"
+C;Y166;X1;K0.257
+C;X2;K".25-303 British"
+C;Y167;X1;K0.257
+C;X2;K".25-308 Winchester"
+C;Y168;X1;K0.257
+C;X2;K".250-3000 Improved"
+C;Y169;X1;K0.257
+C;X2;K".250-3000 Savage"
+C;Y170;X1;K0.257
+C;X2;K".256 Winchester"
+C;Y171;X1;K0.257
+C;X2;K".257 Baker Magnum"
+C;Y172;X1;K0.257
+C;X2;K".257 Kimber"
+C;Y173;X1;K0.257
+C;X2;K".257 Roberts"
+C;Y174;X1;K0.257
+C;X2;K".257 Roberts Improved"
+C;Y175;X1;K0.257
+C;X2;K".257 Scramjet"
+C;Y176;X1;K0.257
+C;X2;K".257 Weatherby"
+C;Y177;X1;K0.257
+C;X2;K"6.3x53R Finnish"
+C;Y178;X1;K0.257
+C;X2;K".25 I.H.M.S.A."
+F;SDM149;Y180;X1
+C;K";;  Diameter .264"
+C;Y181;K0.264
+C;X2;K".260 Remington"
+C;Y182;X1;K0.264
+C;X2;K".264 Blackbird"
+C;Y183;X1;K0.264
+C;X2;K".264 Hollis"
+C;Y184;X1;K0.264
+C;X2;K".264 Phantom"
+C;Y185;X1;K0.264
+C;X2;K".264 Winchester Mag."
+C;Y186;X1;K0.264
+C;X2;K".265 RCBS"
+C;Y187;X1;K0.264
+C;X2;K"6.5-06 Springfield"
+C;Y188;X1;K0.264
+C;X2;K"6.5-257 Roberts"
+C;Y189;X1;K0.264
+C;X2;K"6.5-280 Imp. RCBS"
+C;Y190;X1;K0.264
+C;X2;K"6.5-284 Norma"
+C;Y191;X1;K0.264
+C;X2;K"6.5-284 Winchester"
+C;Y192;X1;K0.264
+C;X2;K"6.5-300 Weatherby"
+C;Y193;X1;K0.264
+C;X2;K"6.5-300 Wright-Hoyer"
+C;Y194;X1;K0.264
+C;X2;K"6.5/30-30 Improved"
+C;Y195;X1;K0.264
+C;X2;K"6.5 Benchrest"
+C;Y196;X1;K0.264
+C;X2;K"6.5 Express Junior"
+C;Y197;X1;K0.264
+C;X2;K"6.5 Gibbs"
+C;Y198;X1;K0.264
+C;X2;K"6.5 ICL Magnum"
+C;Y199;X1;K0.264
+C;X2;K"6.5 Reindeer"
+C;Y200;X1;K0.264
+C;X2;K"6.5 Remington Magnum"
+C;Y201;X1;K0.264
+C;X2;K"6.5x50mm Arisaka"
+C;Y202;X1;K0.264
+C;X2;K"6.5x52mm Carcano"
+C;Y203;X1;K0.264
+C;X2;K"6.5x53mm Dutch"
+C;Y204;X1;K0.264
+C;X2;K"6.5x54mm Mannlicher"
+C;Y205;X1;K0.264
+C;X2;K"6.5x54mm Mauser"
+C;Y206;X1;K0.264
+C;X2;K"6.5x55mm Swedish"
+C;Y207;X1;K0.264
+C;X2;K"6.5x57mm Mauser"
+C;Y208;X1;K0.264
+C;X2;K"6.5x57mmR"
+C;Y209;X1;K0.264
+C;X2;K"6.5x68mm Schuler"
+C;Y210;X1;K0.264
+C;X2;K"6.7x60 EGM"
+C;Y211;X1;K0.264
+C;X2;K"6.5 I.H.M.S.A."
+C;Y212;X1;K0.264
+C;X2;K"6.5 JDJ"
+C;Y213;X1;K0.264
+C;X2;K"6.5 TCU."
+C;Y214;X1;K0.264
+C;X2;K"6.5x39mm"
+F;SDM149;Y216;X1
+C;K";;  Diameter .277"
+C;Y217;K0.277
+C;X2;K".270 Gibbs"
+C;Y218;X1;K0.277
+C;X2;K".270 ICL Magnum"
+C;Y219;X1;K0.277
+C;X2;K".270 Savage"
+C;Y220;X1;K0.277
+C;X2;K".270 Weatherby"
+C;Y221;X1;K0.277
+C;X2;K".270 Winchester"
+C;Y222;X1;K0.277
+C;X2;K".270 Winchester SM"
+C;Y223;X1;K0.277
+C;X2;K".270-284 Winchester"
+C;Y224;X1;K0.277
+C;X2;K".270-300 Weatherby"
+C;Y225;X1;K0.277
+C;X2;K".270-303 British"
+C;Y226;X1;K0.277
+C;X2;K".270-308 Improved"
+C;Y227;X1;K0.277
+C;X2;K".277 Smith"
+C;Y228;X1;K0.277
+C;X2;K"6.8 Remington SPC"
+C;Y229;X1;K0.277
+C;X2;K".270 I.H.M.S.A."
+C;Y230;X1;K0.277
+C;X2;K".270 REN"
+F;SDM149;Y232;X1
+C;K";;  Diameter .284"
+C;Y233;K0.284
+C;X2;K".280 Remington"
+C;Y234;X1;K0.284
+C;X2;K".280 Remington Imp."
+C;Y235;X1;K0.284
+C;X2;K".284 Firebird"
+C;Y236;X1;K0.284
+C;X2;K".284 Tomahawk"
+C;Y237;X1;K0.284
+C;X2;K".284 Winchester"
+C;Y238;X1;K0.284
+C;X2;K".285 OKH"
+C;Y239;X1;K0.284
+C;X2;K"7mm Benchrest"
+C;Y240;X1;K0.284
+C;X2;K"7mm Dakota"
+C;Y241;X1;K0.284
+C;X2;K"7mm Gibbs"
+C;Y242;X1;K0.284
+C;X2;K"7mm ICL Magnum"
+C;Y243;X1;K0.284
+C;X2;K"7mm JRS"
+C;Y244;X1;K0.284
+C;X2;K"7mm Mashburn"
+C;Y245;X1;K0.284
+C;X2;K"7mm Remington Mag."
+C;Y246;X1;K0.284
+C;X2;K"7mm Remington SAUM"
+C;Y247;X1;K0.284
+C;X2;K"7mm Remington UM"
+C;Y248;X1;K0.284
+C;X2;K"7mm S.T. Easterner"
+C;Y249;X1;K0.284
+C;X2;K"7mm S.T. Westerner"
+C;Y250;X1;K0.284
+C;X2;K"7mm Smith Magnum"
+C;Y251;X1;K0.284
+C;X2;K"7mm Weatherby"
+C;Y252;X1;K0.284
+C;X2;K"7mm Winchester SM"
+C;Y253;X1;K0.284
+C;X2;K"7mm-08 Remington"
+C;Y254;X1;K0.284
+C;X2;K"7mm-30 Waters"
+C;Y255;X1;K0.284
+C;X2;K"7mm-300 Weatherby"
+C;Y256;X1;K0.284
+C;X2;K"7mm-350 Remington"
+C;Y257;X1;K0.284
+C;X2;K"7x33mm Sako"
+C;Y258;X1;K0.284
+C;X2;K"7x54mm Mannlicher"
+C;Y259;X1;K0.284
+C;X2;K"7x57mm Mauser"
+C;Y260;X1;K0.284
+C;X2;K"7x57mmR"
+C;Y261;X1;K0.284
+C;X2;K"7x61mm Sharpe & Hart"
+C;Y262;X1;K0.284
+C;X2;K"7x64mm Brenneke"
+C;Y263;X1;K0.284
+C;X2;K"7x65mmR Brenneke"
+C;Y264;X1;K0.284
+C;X2;K"7mm Benchrest"
+C;Y265;X1;K0.284
+C;X2;K"7mm I.H.M.S.A."
+C;Y266;X1;K0.284
+C;X2;K"7mm International"
+C;Y267;X1;K0.284
+C;X2;K"7mm TCU"
+C;Y268;X1;K0.284
+C;X2;K"7mm US"
+C;Y269;X1;K0.284
+C;X2;K"7x45mm Ingram"
+C;Y270;X1;K0.284
+C;X2;K"7x49mm GJW"
+F;SDM149;Y272;X1
+C;K";;  Diameter .298"
+C;Y273;K0.298
+C;X2;K"7.35 Carcano"
+F;SDM149;Y275;X1
+C;K";;  Diameter .308"
+C;Y276;K0.308
+C;X2;K".30 Benchrest"
+C;Y277;X1;K0.308
+C;X2;K".30 Carbine"
+C;Y278;X1;K0.308
+C;X2;K".30 Cody"
+C;Y279;X1;K0.308
+C;X2;K".300 AAC Blackout"
+C;Y280;X1;K0.308
+C;X2;K".30 Gibbs"
+C;Y281;X1;K0.308
+C;X2;K".30 ICL Magnum"
+C;Y282;X1;K0.308
+C;X2;K".30 Newton"
+C;Y283;X1;K0.308
+C;X2;K".30 Remington"
+C;Y284;X1;K0.308
+C;X2;K".30 Smith"
+C;Y285;X1;K0.308
+C;X2;K".30-06 Ackley"
+C;Y286;X1;K0.308
+C;X2;K".30-06 Springfield"
+C;Y287;X1;K0.308
+C;X2;K".30-30 Ackley"
+C;Y288;X1;K0.308
+C;X2;K".30-30 Winchester"
+C;Y289;X1;K0.308
+C;X2;K".30-40 Krag"
+C;Y290;X1;K0.308
+C;X2;K".30-223 Remington"
+C;Y291;X1;K0.308
+C;X2;K".30-224 Weatherby"
+C;Y292;X1;K0.308
+C;X2;K".30-284 Winchester"
+C;Y293;X1;K0.308
+C;X2;K".30-338 Winchester"
+C;Y294;X1;K0.308
+C;X2;K".30-350 Remington"
+C;Y295;X1;K0.308
+C;X2;K".30-378 Weatherby"
+C;Y296;X1;K0.308
+C;X2;K".30-444 Marlin"
+C;Y297;X1;K0.308
+C;X2;K".300 Dakota"
+C;Y298;X1;K0.308
+C;X2;K".300 H&H Magnum"
+C;Y299;X1;K0.308
+C;X2;K".300 ICL Magnum"
+C;Y300;X1;K0.308
+C;X2;K".300 Lapua Magnum"
+C;Y301;X1;K0.308
+C;X2;K".300 Remington SAUM"
+C;Y302;X1;K0.308
+C;X2;K".300 Remington UM"
+C;Y303;X1;K0.308
+C;X2;K".300 Savage"
+C;Y304;X1;K0.308
+C;X2;K".300 VJR"
+C;Y305;X1;K0.308
+C;X2;K".300 Weatherby"
+C;Y306;X1;K0.308
+C;X2;K".300 Winchester"
+C;Y307;X1;K0.308
+C;X2;K".300 Winchester SM"
+C;Y308;X1;K0.308
+C;X2;K".303 Savage"
+C;Y309;X1;K0.308
+C;X2;K".307 Winchester"
+C;Y310;X1;K0.308
+C;X2;K".308 Norma Magnum"
+C;Y311;X1;K0.308
+C;X2;K".308 Patriot"
+C;Y312;X1;K0.308
+C;X2;K".308 Warbird"
+C;Y313;X1;K0.308
+C;X2;K".308 Winchester"
+C;Y314;X1;K0.308
+C;X2;K".308x1-1/2 Barnes"
+C;Y315;X1;K0.308
+C;X2;K".309 Hammond"
+C;Y316;X1;K0.308
+C;X2;K".309 JDJ"
+C;Y317;X1;K0.308
+C;X2;K".310 Cadet"
+C;Y318;X1;K0.308
+C;X2;K"7.5x54mm MAS"
+C;Y319;X1;K0.308
+C;X2;K"7.5x55mm Swiss"
+C;Y320;X1;K0.308
+C;X2;K".30 Herrett"
+C;Y321;X1;K0.308
+C;X2;K".30 I.H.M.S.A."
+C;Y322;X1;K0.308
+C;X2;K".30-357 Paxton"
+C;Y323;X1;K0.308
+C;X2;K".300 Whisper"
+C;Y324;X1;K0.308
+C;X2;K".308-32-20 Winchester"
+C;Y325;X1;K0.308
+C;X2;K".309 JDJ"
+F;SDM149;Y327;X1
+C;K";;  Diameter .309"
+C;Y328;K0.309
+C;X2;K".30 Luger"
+C;Y329;X1;K0.309
+C;X2;K".30 Mauser"
+F;SDM149;Y331;X1
+C;K";;  Diameter .31"
+C;Y332;K0.31
+C;X2;K"7.62x39mm Russian"
+C;Y333;X1;K0.31
+C;X2;K"7.62x54mm Russian"
+F;SDM149;Y335;X1
+C;K";;  Diameter .311"
+C;Y336;K0.311
+C;X2;K".303 British"
+C;Y337;X1;K0.311
+C;X2;K"7.65x53mm Argentine"
+C;Y338;X1;K0.311
+C;X2;K".32 ACP"
+C;Y339;X1;K0.311
+C;X2;K".32 NAA"
+F;SDM149;Y341;X1
+C;K";;  Diameter .312"
+F;X2
+C;Y342;X1;K0.312
+C;X2;K".32-20 Winchester"
+C;Y343;X1;K0.312
+C;X2;K"7.7x58mm Arisaka"
+C;Y344;X1;K0.312
+C;X2;K".32 H&R Magnum"
+C;Y345;X1;K0.312
+C;X2;K".32 S&W"
+C;Y346;X1;K0.312
+C;X2;K".32 S&W Long"
+C;Y347;X1;K0.312
+C;X2;K".32-20 Winchester"
+C;Y348;X1;K0.312
+C;X2;K"7.62x25mm Tokarev"
+F;SDM149;Y350;X1
+C;K";;  Diameter .318"
+F;SM148;Y351
+C;K0.318
+C;X2;K"8x57mmJ Mauser"
+F;SM148;Y352;X1
+C;K0.318
+C;X2;K"8x57mmJR Mauser"
+F;SM148;Y353;X1
+C;K0.318
+C;X2;K"8x72mmR Sauer & Sohn"
+F;SM148;Y354;X1
+F;SDM149;Y355
+C;K";;  Diameter .321"
+C;Y356;K0.321
+C;X2;K".32 Remington"
+C;Y357;X1;K0.321
+C;X2;K".32 Winchester SL"
+C;Y358;X1;K0.321
+C;X2;K".32 Winchester Special"
+C;Y359;X1;K0.321
+C;X2;K".32-40 Winchester"
+F;SDM149;Y361;X1
+C;K";;  Diameter .323"
+C;Y362;K0.323
+C;X2;K".323 Hollis"
+C;Y363;X1;K0.323
+C;X2;K".325 WSM"
+C;Y364;X1;K0.323
+C;X2;K"8mm Gibbs"
+C;Y365;X1;K0.323
+C;X2;K"8mm PMM"
+C;Y366;X1;K0.323
+C;X2;K"8mm Remington Mag."
+C;Y367;X1;K0.323
+C;X2;K"8mm-06 Springfield"
+C;Y368;X1;K0.323
+C;X2;K"8x57mmJRS Mauser"
+C;Y369;X1;K0.323
+C;X2;K"8x57mmJS Mauser"
+C;Y370;X1;K0.323
+C;X2;K"8x60mmS"
+C;Y371;X1;K0.323
+C;X2;K"8x64mmS"
+C;Y372;X1;K0.323
+C;X2;K"8x68mm Magnum"
+C;Y373;X1;K0.323
+C;X2;K"8.2x53mmR Finnish"
+C;Y374;X1;K0.323
+C;X2;K"8mm I.H.M.S.A."
+F;SDM149;Y376;X1
+C;K";;  Diameter .338"
+F;X2
+C;Y377;X1;K0.338
+C;X2;K".33 Poacher's Pet"
+C;Y378;X1;K0.338
+C;X2;K".33 Winchester"
+C;Y379;X1;K0.338
+C;X2;K".330 Dakota"
+C;Y380;X1;K0.338
+C;X2;K".338 A-Square"
+C;Y381;X1;K0.338
+C;X2;K".338 Galaxy"
+C;Y382;X1;K0.338
+C;X2;K".338 Lapua Magnum"
+C;Y383;X1;K0.338
+C;X2;K".338 Remington UM"
+C;Y384;X1;K0.338
+C;X2;K".338 Scovill"
+C;Y385;X1;K0.338
+C;X2;K".338 Titan"
+C;Y386;X1;K0.338
+C;X2;K".338 Winchester"
+C;Y387;X1;K0.338
+C;X2;K".338-06 A-Square"
+C;Y388;X1;K0.338
+C;X2;K".338-50 Talbot"
+C;Y389;X1;K0.338
+C;X2;K".338-223 Remington"
+C;Y390;X1;K0.338
+C;X2;K".338-378 Weatherby"
+C;Y391;X1;K0.338
+C;X2;K".340 Weatherby"
+C;Y392;X1;K0.338
+C;X2;K".338 I.H.S.M.A."
+C;Y393;X1;K0.338
+C;X2;K".338 JDJ #2"
+F;SDM149;Y395;X1
+C;K";;  Diameter .348"
+C;Y396;K0.348
+C;X2;K".348 Winchester"
+F;SDM149;Y398;X1
+C;K";;  Diameter .355"
+C;Y399;K0.355
+C;X2;K"9mm Luger"
+C;Y400;X1;K0.355
+C;X2;K".357 SIG"
+C;Y401;X1;K0.355
+C;X2;K".38 ACP"
+C;Y402;X1;K0.355
+C;X2;K".38 Super ACP"
+C;Y403;X1;K0.355
+C;X2;K".380 ACP"
+C;Y404;X1;K0.355
+C;X2;K"9x18mm Makarov"
+C;Y405;X1;K0.355
+C;X2;K"9x19mm Luger"
+C;Y406;X1;K0.355
+C;X2;K"9x21mm Fiocchi"
+C;Y407;X1;K0.355
+C;X2;K"9x23mm Largo"
+F;SDM149;Y409;X1
+C;K";;  Diameter .356"
+C;Y410;K0.356
+C;X2;K"9x57 Mauser"
+F;SDM149;Y412;X1
+C;K";;  Diameter .357"
+C;Y413;K0.357
+C;X2;K".357 Magnum"
+C;Y414;X1;K0.357
+C;X2;K".35 I.H.M.S.A."
+C;Y415;X1;K0.357
+C;X2;K".35 Remington"
+C;Y416;X1;K0.357
+C;X2;K".357 Herrett"
+C;Y417;X1;K0.357
+C;X2;K".357 Maximum"
+C;Y418;X1;K0.357
+C;X2;K".357-44 Bain-Davis"
+C;Y419;X1;K0.357
+C;X2;K".38 Special"
+F;SDM149;Y421;X1
+C;K";;  Diameter .358"
+C;Y422;K0.358
+C;X2;K".35 Ackley Magnum"
+C;Y423;X1;K0.358
+C;X2;K".35 G&H Magnum"
+C;Y424;X1;K0.358
+C;X2;K".35 Newton"
+C;Y425;X1;K0.358
+C;X2;K".35 Remington"
+C;Y426;X1;K0.358
+C;X2;K".35 Whelen"
+C;Y427;X1;K0.358
+C;X2;K".35 Winchester"
+C;Y428;X1;K0.358
+C;X2;K".35 Winchester SL"
+C;Y429;X1;K0.358
+C;X2;K".35-30 Ackley"
+C;Y430;X1;K0.358
+C;X2;K".35-284 Winchester"
+C;Y431;X1;K0.358
+C;X2;K".35-444 Marlin"
+C;Y432;X1;K0.358
+C;X2;K".350 Griffin & Howe"
+C;Y433;X1;K0.358
+C;X2;K".350 Remington Magnum"
+C;Y434;X1;K0.358
+C;X2;K".350 Smith"
+C;Y435;X1;K0.358
+C;X2;K".351 Winchester SL"
+C;Y436;X1;K0.358
+C;X2;K".356 Winchester"
+C;Y437;X1;K0.358
+C;X2;K".358 JDJ"
+C;Y438;X1;K0.358
+C;X2;K".358 Norma Magnum"
+C;Y439;X1;K0.358
+C;X2;K".358 S.T. Alaskan"
+C;Y440;X1;K0.358
+C;X2;K".358 U.M.T."
+C;Y441;X1;K0.358
+C;X2;K".358 Winchester"
+F;SDM149;Y443;X1
+C;K";;  Diameter .366"
+C;Y444;K0.366
+C;X2;K"9.3x53mmR Finnish"
+C;Y445;X1;K0.366
+C;X2;K"9.3x57mm Mauser"
+C;Y446;X1;K0.366
+C;X2;K"9.3x62mm Mauser"
+C;Y447;X1;K0.366
+C;X2;K"9.3x64mm Brenneke"
+C;Y448;X1;K0.366
+C;X2;K"9.3x74mm"
+F;SDM149;Y450;X1
+C;K";;  Diameter .375"
+F;SM153;Y451
+C;K0.375
+F;SM153;X2
+C;K".375 Cheytac"
+C;Y452;X1;K0.375
+C;X2;K".375 Dakota"
+C;Y453;X1;K0.375
+C;X2;K".375 Flanged Express"
+C;Y454;X1;K0.375
+C;X2;K".375 Forsberg"
+C;Y455;X1;K0.375
+C;X2;K".375 H&H Magnum"
+C;Y456;X1;K0.375
+C;X2;K".375 Hellcat"
+C;Y457;X1;K0.375
+C;X2;K".375 ICL Magnum"
+C;Y458;X1;K0.375
+C;X2;K".375 JDJ"
+C;Y459;X1;K0.375
+C;X2;K".375 JRS"
+C;Y460;X1;K0.375
+C;X2;K".375 Remington UM"
+C;Y461;X1;K0.375
+C;X2;K".375 Saturn"
+C;Y462;X1;K0.375
+C;X2;K".375 Scovill"
+C;Y463;X1;K0.375
+C;X2;K".375 Snipetac"
+C;Y464;X1;K0.375
+C;X2;K".375 Weatherby"
+C;Y465;X1;K0.375
+C;X2;K".375 Whelen"
+C;Y466;X1;K0.375
+C;X2;K".375 Winchester"
+C;Y467;X1;K0.375
+C;X2;K".375-338 Chatfield"
+C;Y468;X1;K0.375
+C;X2;K".375/38-40 Rimless"
+C;Y469;X1;K0.375
+C;X2;K".376 Steyr"
+C;Y470;X1;K0.375
+C;X2;K".378 Weatherby"
+C;Y471;X1;K0.375
+C;X2;K".38-55 Winchester"
+C;Y472;X1;K0.375
+C;X2;K".375 Super Magnum"
+F;SDM149;Y474;X1
+C;K";;  Diameter .4"
+C;Y475;K0.4
+C;X2;K".40 S&W"
+C;Y476;X1;K0.4
+C;X2;K".38-40 Winchester"
+C;Y477;X1;K0.4
+C;X2;K".400 CorBon"
+C;Y478;X1;K0.4
+C;X2;K"10mm Auto"
+F;SDM149;Y480;X1
+C;K";;  Diameter .401"
+F;SM148;Y481
+C;K0.401
+C;X2;K".38-40 Winchester"
+C;Y482;X1;K0.401
+C;X2;K".401 Herter Powermag"
+F;SDM149;Y484;X1
+C;K";;  Diameter .405"
+F;SM148;Y485
+C;K0.405
+C;X2;K".400 Whelen"
+F;SM148;Y486;X1
+C;K0.405
+C;X2;K".405 Winchester"
+F;SM148;Y487;X1
+F;SDM154;Y488
+C;K";;  Diameter .408"
+F;SM148;Y489
+C;K0.48
+F;SM153;X2
+C;K".408 Cheytac"
+F;SM148;Y490;X1
+F;SDM149;Y491
+C;K";;  Diameter .41"
+C;Y492;K0.41
+C;X2;K".41 Magnum"
+C;Y493;X1;K0.41
+C;X2;K".411 JDJ"
+F;SDM149;Y495;X1
+C;K";;  Diameter .411"
+C;Y496;K0.411
+C;X2;K".411 Magnum"
+F;SDM149;Y498;X1
+C;K";;  Diameter .416"
+C;Y499;K0.416
+C;X2;K".416 Barnes"
+C;Y500;X1;K0.416
+C;X2;K".416 Barrett"
+C;Y501;X1;K0.416
+C;X2;K".416 Dakota"
+C;Y502;X1;K0.416
+C;X2;K".416 Hoffman"
+C;Y503;X1;K0.416
+C;X2;K".416 Meteor"
+C;Y504;X1;K0.416
+C;X2;K".416 Remington Magnum"
+C;Y505;X1;K0.416
+C;X2;K".416 Rigby"
+C;Y506;X1;K0.416
+C;X2;K".416 Taylor"
+C;Y507;X1;K0.416
+C;X2;K".416 Weatherby"
+F;SDM149;Y509;X1
+C;K";;  Diameter .424"
+C;Y510;K0.424
+C;X2;K"10.75x68mm Mauser"
+C;Y511;X1;K0.424
+C;X2;K"10.75x73mm Express"
+F;SDM149;Y513;X1
+C;K";;  Diameter .427"
+C;Y514;K0.427
+C;X2;K".44-40 Winchester"
+F;SDM149;Y516;X1
+C;K";;  Diameter .429"
+C;Y517;K0.429
+C;X2;K".44 Magnum"
+C;Y518;X1;K0.429
+C;X2;K".444 Marlin"
+C;Y519;X1;K0.429
+C;X2;K".44 Auto Mag"
+C;Y520;X1;K0.429
+C;X2;K".44 Special"
+C;Y521;X1;K0.429
+C;X2;K".44-40 Winchester"
+C;Y522;X1;K0.429
+C;X2;K".445 Super Mag"
+F;SDM154;Y524;X1
+C;K";; Diameter .450"
+C;Y525;K0.45
+C;X2;K"577-450 Martini Henry"
+F;SDM149;Y527;X1
+C;K";;  Diameter .451"
+F;SM148;Y528
+C;K0.451
+C;X2;K".45 ACP"
+F;SM148;Y529;X1
+C;K0.451
+C;X2;K".45 Colt"
+F;SM148;Y530;X1
+C;K0.451
+C;X2;K".454 Casull"
+F;SM148;Y531;X1
+C;K0.451
+C;X2;K".45 Auto Rim"
+F;SM148;Y532;X1
+C;K0.451
+C;X2;K".45 Colt"
+F;SM148;Y533;X1
+C;K0.451
+C;X2;K".45 Glock Auto"
+F;SM148;Y534;X1
+C;K0.451
+C;X2;K".45 Super"
+F;SM148;Y535;X1
+C;K0.451
+C;X2;K".45 Wildey Magnum"
+F;SM148;Y536;X1
+C;K0.451
+C;X2;K".45 Winchester Magnum"
+F;SM148;Y537;X1
+C;K0.451
+C;X2;K".450 Extreme"
+F;SM148;Y538;X1
+C;K0.451
+C;X2;K".460 Rowland"
+F;SM148;Y539;X1
+C;K0.451
+C;X2;K".45 Muzzle Loader"
+F;SM148;Y540;X1
+F;SDM149;Y541
+C;K";;  Diameter .458"
+C;Y542;K0.458
+C;X2;K".45-70 Government"
+C;Y543;X1;K0.458
+C;X2;K".45-90 Government"
+C;Y544;X1;K0.458
+C;X2;K".450 Ackley Magnum"
+C;Y545;X1;K0.458
+C;X2;K".450 Alaskan"
+C;Y546;X1;K0.458
+C;X2;K".450 Marlin"
+C;Y547;X1;K0.458
+C;X2;K".450 Nitro Express"
+C;Y548;X1;K0.458
+C;X2;K".450 Smith"
+C;Y549;X1;K0.458
+C;X2;K".450 Watts Magnum"
+C;Y550;X1;K0.458
+C;X2;K".457 WWG Magnum"
+C;Y551;X1;K0.458
+C;X2;K".458 Lott"
+C;Y552;X1;K0.458
+C;X2;K".458 Winchester"
+C;Y553;X1;K0.458
+C;X2;K".458x1-1/2 Barnes"
+C;Y554;X1;K0.458
+C;X2;K".458x2 American"
+C;Y555;X1;K0.458
+C;X2;K".460 Steyr"
+C;Y556;X1;K0.458
+C;X2;K".460 Weatherby"
+F;SDM149;Y558;X1
+C;K";;  Diameter .475"
+C;Y559;K0.475
+C;X2;K".470 Nitro Express"
+C;Y560;X1;K0.475
+C;X2;K".475 A&M Magnum"
+C;Y561;X1;K0.475
+C;X2;K".475 OKH Magnum"
+C;Y562;X1;K0.475
+C;X2;K".475 Linebaugh"
+C;Y563;X1;K0.475
+C;X2;K".475 Wildey Magnum"
+C;Y564;X1;K0.475
+C;X2;K".480 Ruger"
+F;SDM149;Y566;X1
+C;K";;  Diameter .5"
+C;Y567;K0.5
+C;X2;K".495 A-Square"
+C;Y568;X1;K0.5
+C;X2;K".50 Action Express"
+C;Y569;X1;K0.5
+C;X2;K".500 S&W Magnum"
+C;Y570;X1;K0.5
+C;X2;K".500 Muzzle Loader"
+F;SDM149;Y572;X1
+C;K";;  Diameter .51"
+C;Y573;K0.51
+C;X2;K".495 A-Square"
+C;Y574;X1;K0.51
+C;X2;K".50 Alaskan"
+C;Y575;X1;K0.51
+C;X2;K".500 A-Square"
+C;Y576;X1;K0.51
+C;X2;K".510 Nitro Express"
+F;SDM149;Y578;X1
+C;K";;  Diameter .511"
+C;Y579;K0.511
+C;X2;K".50 BMG"
+C;Y580;X1;K0.511
+C;X2;K".500 Jeffery"
+F;SDM149;Y582;X1
+C;K";;  Diameter .585"
+C;Y583;K0.585
+C;X2;K".585 Nyati"
+F;SDM149;Y585;X1
+C;K";;  Diameter .7"
+C;Y586;K0.7
+C;X2;K".700 Nitro Express"
+F;SDM152;Y588;X1
+C;K";; Shotgun Diameters"
+F;P0;FG0R;Y589
+C;K0.919
+C;X2;K"06 GA"
+F;P0;FG0R;Y590;X1
+C;K0.835
+C;X2;K"08 GA"
+F;P0;FG0R;Y591;X1
+C;K0.775
+C;X2;K"10 GA"
+F;P0;FG0R;Y592;X1
+C;K0.729
+C;X2;K"12 GA"
+F;P0;FG0R;Y593;X1
+C;K0.71
+C;X2;K"13 GA"
+F;P0;FG0R;Y594;X1
+C;K0.693
+C;X2;K"14 GA"
+F;P0;FG0R;Y595;X1
+C;K0.663
+C;X2;K"16 GA"
+F;P0;FG0R;Y596;X1
+C;K0.615
+C;X2;K"20 GA"
+F;P0;FG0R;Y597;X1
+C;K0.579
+C;X2;K"24 GA"
+F;P0;FG0R;Y598;X1
+C;K0.55
+C;X2;K"28 GA"
+F;P0;FG0R;Y599;X1
+C;K0.41
+C;X2;K".410 GA"
+E

@@ -1,0 +1,175 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0_);;\(#,##0\)
+P;P#,##0_);;[Red]\(#,##0\)
+P;P#,##0.00_);;\(#,##0.00\)
+P;P#,##0.00_);;[Red]\(#,##0.00\)
+P;P"$"#,##0_);;\("$"#,##0\)
+P;P"$"#,##0_);;[Red]\("$"#,##0\)
+P;P"$"#,##0.00_);;\("$"#,##0.00\)
+P;P"$"#,##0.00_);;[Red]\("$"#,##0.00\)
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pm/d/yyyy
+P;Pd\-mmm\-yy
+P;Pd\-mmm
+P;Pmmm\-yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pm/d/yyyy\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_("$"* #,##0_);;_("$"* \(#,##0\);;_("$"* "-"_);;_(@_)
+P;P_(* #,##0_);;_(* \(#,##0\);;_(* "-"_);;_(@_)
+P;P_("$"* #,##0.00_);;_("$"* \(#,##0.00\);;_("$"* "-"??_);;_(@_)
+P;P_(* #,##0.00_);;_(* \(#,##0.00\);;_(* "-"??_);;_(@_)
+P;P.000
+P;P.0000
+P;P0.000
+P;P.00
+P;P\$#,##0_);;[Red]"($"#,##0\)
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;ECalibri;M220;L9
+P;ECambria;M360;SB;L57
+P;ECalibri;M300;SB;L57
+P;ECalibri;M260;SB;L57
+P;ECalibri;M220;SB;L57
+P;ECalibri;M220;L18
+P;ECalibri;M220;L21
+P;ECalibri;M220;L61
+P;ECalibri;M220;L63
+P;ECalibri;M220;SB;L64
+P;ECalibri;M220;SB;L53
+P;ECalibri;M220;L53
+P;ECalibri;M220;SB;L10
+P;ECalibri;M220;L11
+P;ECalibri;M220;SI;L24
+P;ECalibri;M220;SB;L9
+P;ECalibri;M220;L10
+P;EArial;M200
+P;EArial;M200
+P;EArial;M200
+P;EArial;M200
+P;EArial;M200
+P;EArial;M200;SB
+P;EArial;M200;L9
+P;EVerdana;M200;L9
+P;EArial;M160
+P;EArial;M200
+P;EArial;M200;SB
+F;P0;DG0G8;M255
+B;Y561;X2;D0 0 560 1
+O;L;D;V0;K47;G100 0.001
+F;W1 1 10
+F;W2 2 31
+F;W3 256 11
+F;M270;R326
+F;M210;R361
+C;Y1;X1;K";;---------------------------------------------------------"
+C;Y2;K";;"
+C;Y3;K";; Data file Format is as follows:"
+C;Y4;K";; "
+C;Y5;K";;   Lines may be commented out by a preceeding semi-colon"
+C;Y6;K";;"
+C;Y7;K";;   No single field may be more than 64 characters"
+C;Y8;K";;"
+C;Y9;K";; Diameter"
+C;X2;K"Caliber Name"
+C;Y10;X1;K";;---------------------------------------------------------"
+F;SDM32;Y12
+C;K";; User Data Example (delete the Semi-Colon on the next line to enable)"
+C;Y13;K";; 0.243"
+C;X2;K"My SuperWizBang"
+F;P0;FG0L;Y21
+F;P0;FG0L;Y22
+F;SDM32;Y25;X1
+F;SM31;Y26
+F;SM31;Y27
+F;SDM32;Y28
+F;SM31;Y30
+F;SM31;Y31
+F;SDM32;Y32
+F;SM31;Y34
+F;SM31;Y35
+F;SDM32;Y36
+F;SDM32;Y40
+F;SDM32;Y87
+F;SDM32;Y90
+F;SDM32;Y93
+F;SDM32;Y96
+F;SDM32;Y133
+F;SDM32;Y136
+F;SDM32;Y166
+F;SDM32;Y202
+F;SDM32;Y218
+F;SDM32;Y258
+F;SDM32;Y261
+F;SDM32;Y312
+F;SDM32;Y316
+F;SDM32;Y320
+F;SDM32;Y326
+F;SDM32;Y335
+F;SM31;Y336
+F;SM31;Y337
+F;SM31;Y338
+F;SM31;Y339
+F;SDM32;Y340
+F;SDM32;Y346
+F;SDM32;Y361
+F;SDM32;Y380
+F;SDM32;Y383
+F;SDM32;Y394
+F;SDM32;Y397
+F;SDM32;Y406
+F;SDM32;Y428
+F;SDM32;Y435
+F;SDM32;Y458
+F;SDM32;Y464
+F;SM31;Y465
+F;SDM32;Y468
+F;SM31;Y469
+F;SM31;Y470
+F;SM31;Y471
+F;SDM32;Y472
+F;SDM32;Y476
+F;SDM32;Y479
+F;SDM32;Y489
+F;SDM32;Y493
+F;SDM32;Y496
+F;SDM32;Y504
+F;SM31;Y505
+F;SM31;Y506
+F;SM31;Y507
+F;SM31;Y508
+F;SM31;Y509
+F;SM31;Y510
+F;SM31;Y511
+F;SM31;Y512
+F;SM31;Y513
+F;SM31;Y514
+F;SM31;Y515
+F;SM31;Y516
+F;SM31;Y517
+F;SDM32;Y518
+F;SDM32;Y534
+F;SDM32;Y542
+F;SDM32;Y548
+F;SDM32;Y554
+F;SDM32;Y558
+F;SDM32;Y561
+E

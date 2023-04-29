@@ -1,0 +1,168 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0_);;\(#,##0\)
+P;P#,##0_);;[Red]\(#,##0\)
+P;P#,##0.00_);;\(#,##0.00\)
+P;P#,##0.00_);;[Red]\(#,##0.00\)
+P;P"$"#,##0_);;\("$"#,##0\)
+P;P"$"#,##0_);;[Red]\("$"#,##0\)
+P;P"$"#,##0.00_);;\("$"#,##0.00\)
+P;P"$"#,##0.00_);;[Red]\("$"#,##0.00\)
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pm/d/yyyy
+P;Pd\-mmm\-yy
+P;Pd\-mmm
+P;Pmmm\-yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pm/d/yyyy\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_("$"* #,##0_);;_("$"* \(#,##0\);;_("$"* "-"_);;_(@_)
+P;P_(* #,##0_);;_(* \(#,##0\);;_(* "-"_);;_(@_)
+P;P_("$"* #,##0.00_);;_("$"* \(#,##0.00\);;_("$"* "-"??_);;_(@_)
+P;P_(* #,##0.00_);;_(* \(#,##0.00\);;_(* "-"??_);;_(@_)
+P;P.000
+P;P.0000
+P;P0.000
+P;P.00
+P;P\$#,##0_);;[Red]"($"#,##0\)
+P;P"Yes";;"Yes";;"No"
+P;P"True";;"True";;"False"
+P;P"On";;"On";;"Off"
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;FArial;M200
+P;EArial;M200
+P;EArial;M200
+P;EArial;M200
+P;EArial;M200;SB
+P;EArial;M200;L9
+P;EVerdana;M200;L9
+P;EArial;M160
+P;EVerdana;M160;L9
+P;EVerdana;M160
+P;EVerdana;M180
+F;P0;DG0G8;M255
+B;Y106;X2;D0 0 105 1
+O;L;D;V0;K47;G100 0.001
+F;W1 1 11
+F;W2 2 31
+F;W3 256 11
+F;M270;R13
+F;M270;R38
+C;Y1;X1;K";;---------------------------------------------------------"
+C;Y2;K";; Special Thanks to the following for updating the  "
+C;Y3;K";; Cases Database for 2006."
+C;Y4;K";;"
+C;Y5;K";;"
+C;Y6;K";; Data file Format is as follows:"
+C;Y7;K";; "
+C;Y8;K";;   Lines may be commented out by a preceeding semi-colon"
+C;Y9;K";;"
+C;Y10;K";;   No single field may be more than 64 characters"
+C;Y11;K";;"
+C;Y12;K";; BRAND"
+F;Y13
+C;K";;---------------------------------------------------------"
+F;X2
+F;SLTSM14;Y14;X1
+C;K"Aquila"
+F;SRTSM14;X2
+F;SLSM14;Y15;X1
+C;K"A-Square"
+F;SRSM14;X2
+F;SSM14;Y16;X1
+C;K"Bertram"
+F;SRSM14;X2
+F;SLSM14;Y17;X1
+C;K"CCI"
+F;SRSM14;X2
+F;SLSM14;Y18;X1
+C;K"Cor-Bon"
+F;SRSM14;X2
+F;SLSM14;Y19;X1
+C;K"Federal"
+F;SRSM14;X2
+F;SLSM14;Y20;X1
+C;K"Frontier"
+F;SRSM14;X2
+F;SLSM14;Y21;X1
+C;K"HXP"
+F;SRSM14;X2
+F;SLSM14;Y22;X1
+C;K"Hornady"
+F;SRSM14;X2
+F;SLSM14;Y23;X1
+C;K"IMI"
+F;SRSM14;X2
+F;SLSM14;Y24;X1
+C;K"Lake City"
+F;SRSM14;X2
+F;SLSM14;Y25;X1
+C;K"Lapua"
+F;SRSM14;X2
+F;SLSM14;Y26;X1
+C;K"Lazzeroni"
+F;SRSM14;X2
+F;SLSM14;Y27;X1
+C;K"Magtech"
+F;SRSM14;X2
+F;SLSM14;Y28;X1
+C;K"Norma"
+F;SRSM14;X2
+F;SLSM14;Y29;X1
+C;K"Nosler"
+F;SRSM14;X2
+F;SLSM14;Y30;X1
+C;K"PMC"
+F;SRSM14;X2
+F;SLSM14;Y31;X1
+C;K"PPU"
+F;SRSM14;X2
+F;SLSM14;Y32;X1
+C;K"Remington"
+F;SRSM14;X2
+F;SLSM14;Y33;X1
+C;K"Sellier&Bellot"
+F;SRSM14;X2
+F;SLSM14;Y34;X1
+C;K"Starline"
+F;SRSM14;X2
+F;SLSM14;Y35;X1
+C;K"Swift"
+F;SRSM14;X2
+F;SLSM14;Y36;X1
+C;K"UMC"
+F;SRSM14;X2
+F;SLSM14;Y37;X1
+C;K"Weatherby"
+F;SRSM14;X2
+F;SLBSM14;Y38;X1
+C;K"Winchester"
+F;SRBSM14;X2
+F;SDM8;Y40;X1
+F;P0;FG0L;Y41;X2
+F;SDM8;Y42;X1
+F;P0;FG0L;X2
+F;SDM8;Y58;X1
+F;SDM8;Y66
+F;SDM8;Y68
+F;SDM8;Y90
+F;SDM8;Y101
+F;SDM8;Y106
+E
