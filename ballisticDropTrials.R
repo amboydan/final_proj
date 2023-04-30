@@ -30,4 +30,30 @@ b_drop <- c(-85.82, -83.15, -86.19, -68.19, -85.86,
 # add drops to df
 df$drop <- b_drop
 
+# plot df plots
+# vel by drop color with bc
+ggplot(df, aes(vel, drop, fill = as.factor(bc))) + 
+  geom_jitter(shape = 21, size = 4,
+              height = 2, width = 2) +
+  scale_x_continuous(labels = comma) +
+  scale_fill_manual(values = c('red', 'green', 'blue')) +
+  ggtitle('Bullet Drop vs Velocity \n') +
+  xlab('\n Velocity (fps)') +
+  ylab('Bullet Drop at 500-yards (in) \n') +
+  theme_bw() +
+  theme(
+    plot.title = element_text(color = 'black', face = 'bold', 
+                              hjust = 0.5, size = 14),
+    axis.title = element_text(color = 'black', face = 'bold', 
+                              hjust = 0.5, size = 14),
+    axis.text = element_text(color = 'black', face = 'bold', 
+                             hjust = 0.5, size = 14),
+    plot.margin = margin(c(.2,.2,.2,.2), unit = 'in'),
+    legend.title = element_text(color = 'black', face = 'bold'),
+    legend.text = element_text(color = 'black', face = 'bold', 
+                               hjust = 0.5, size = 10),
+    legend.background = element_rect(color = 'black'),
+    legend.position = c(0.9, 0.15)
+  )
+
 
