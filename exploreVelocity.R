@@ -130,8 +130,8 @@ do.call("rbind",
 
 mod <- aov(vel ~ rfl + amo * cnt , data = vel)
 # Tukey test HSD
-tukey.test <- TukeyHSD(mod)
-plot(tukey.test)
-marginal <- lsmeans::lsmeans(mod, pairwise ~ amo, adjust = 'tukey')
+# tukey.test <- TukeyHSD(mod)
+# plot(tukey.test)
+# marginal <- lsmeans::lsmeans(mod, pairwise ~ amo, adjust = 'tukey')
 
 

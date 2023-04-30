@@ -1,3 +1,4 @@
+library(ggplot2)
 
 # inputs for the PointBlank ballistics software
 # 1) actual, 2) 10% low, 3) 10% high
