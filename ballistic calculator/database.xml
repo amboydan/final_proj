@@ -1,21 +1,63 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Root>
   <Settings>
-    <WindowPosition>-1928,-8</WindowPosition>
-    <WindowSize>1936,1056</WindowSize>
-    <WindowState>2</WindowState>
+    <WindowPosition>2235,233</WindowPosition>
+    <WindowSize>770,603</WindowSize>
+    <WindowState>0</WindowState>
     <Metric>FALSE</Metric>
     <Mode>Ballistics</Mode>
     <RangeIncrements>50</RangeIncrements>
     <MaxRange>500</MaxRange>
-    <TreeViewWidth>432</TreeViewWidth>
+    <TreeViewWidth>178</TreeViewWidth>
     <VersionCheck>True</VersionCheck>
     <DefElevation>200</DefElevation>
     <DefTemperature>30</DefTemperature>
     <DefAngle>0</DefAngle>
   </Settings>
   <TARGETINFO>
-    <TARGCOUNT>0</TARGCOUNT>
+    <TARGCOUNT>6</TARGCOUNT>
+    <TARG0>
+      <Name>target.bmp</Name>
+      <CenterX>300</CenterX>
+      <CenterY>300</CenterY>
+      <ScaleX>1</ScaleX>
+      <ScaleY>1</ScaleY>
+    </TARG0>
+    <TARG1>
+      <Name>target2.bmp</Name>
+      <CenterX>300</CenterX>
+      <CenterY>300</CenterY>
+      <ScaleX>1</ScaleX>
+      <ScaleY>1</ScaleY>
+    </TARG1>
+    <TARG2>
+      <Name>target3.bmp</Name>
+      <CenterX>300</CenterX>
+      <CenterY>300</CenterY>
+      <ScaleX>1</ScaleX>
+      <ScaleY>1</ScaleY>
+    </TARG2>
+    <TARG3>
+      <Name>target4.bmp</Name>
+      <CenterX>300</CenterX>
+      <CenterY>300</CenterY>
+      <ScaleX>1</ScaleX>
+      <ScaleY>1</ScaleY>
+    </TARG3>
+    <TARG4>
+      <Name>target5.bmp</Name>
+      <CenterX>300</CenterX>
+      <CenterY>300</CenterY>
+      <ScaleX>1</ScaleX>
+      <ScaleY>1</ScaleY>
+    </TARG4>
+    <TARG5>
+      <Name>target6.bmp</Name>
+      <CenterX>300</CenterX>
+      <CenterY>300</CenterY>
+      <ScaleX>1</ScaleX>
+      <ScaleY>1</ScaleY>
+    </TARG5>
   </TARGETINFO>
   <BalliVars0>
     <Name>Atm 168</Name>
@@ -170,7 +212,7 @@
     <ScopeHeight>0</ScopeHeight>
     <Comments>
     </Comments>
-    <Selected>No</Selected>
+    <Selected>Yes</Selected>
     <Load0>
       <Name>New Load #0</Name>
       <LotNum>
