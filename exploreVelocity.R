@@ -4,7 +4,32 @@ vel <- read.csv('velocity.csv', header = T)
 vel$rfl <- as.factor(vel$rfl)
 vel$rfl <- recode(vel$rfl, '1' = 'Rifle 1', '2' = 'Rifle 2')
 
-ggplot(vel, aes(vel)) + geom_histogram()
+ggplot(vel, aes(x = vel, fill = amo)) + 
+  geom_histogram(binwidth = 20, aes(fill = amo), 
+                 color = 'black', alpha = 0.7, 
+                 position = 'identity') + 
+  scale_fill_manual(values = c('green', 'orange', 'yellow', 'purple')) +
+  scale_y_continuous(limits = c(0,12), breaks = seq(0, 14, by = 2),
+                     expand = c(0,0)) +
+  scale_x_continuous(label = comma) +
+  ggtitle('Histogram of Recorded Velocities by Ammunition \n') +
+  xlab('\n Velocity (ft/s)') +
+  ylab('Count \n') +
+  theme_bw() +
+  theme(
+    plot.title = element_text(color = 'black', face = 'bold', 
+                              hjust = 0.5, size = 18),
+    axis.title = element_text(color = 'black', face = 'bold', 
+                              hjust = 0.5, size = 14),
+    axis.text = element_text(color = 'black', face = 'bold', 
+                             hjust = 0.5, size = 14),
+    plot.margin = margin(c(.2,.2,.2,.2), unit = 'in'),
+    legend.title = element_blank(),
+    legend.text = element_text(color = 'black', face = 'bold', 
+                               hjust = 0.5, size = 12),
+    legend.background = element_rect(color = 'black'),
+    legend.position = c(0.9, 0.7)
+  )
   
   
   
