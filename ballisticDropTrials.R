@@ -56,4 +56,9 @@ ggplot(df, aes(vel, drop, fill = as.factor(bc))) +
     legend.position = c(0.9, 0.15)
   )
 
+mod <- lm(drop ~ vel + bc + wt + alt + tmp + vel*bc, data = df)
+av <- aov(mod)
+mod2 <- lm(drop ~ vel*bc, data = df)
+av2 <- aov(mod2)
+
 
