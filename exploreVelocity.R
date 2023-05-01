@@ -4,6 +4,10 @@ vel <- read.csv('velocity.csv', header = T)
 vel$rfl <- as.factor(vel$rfl)
 vel$rfl <- recode(vel$rfl, '1' = 'Rifle 1', '2' = 'Rifle 2')
 
+ggplot(vel, aes(vel)) + geom_histogram()
+  
+  
+  
 p <- ggplot(vel, aes(amo, vel)) + 
   geom_jitter(width = .15, shape = 21, 
               aes(fill = rfl), size = 3) +

@@ -1,4 +1,4 @@
-library(ggplot2)
+library(ggplot2); library(car)
 
 # inputs for the PointBlank ballistics software
 # 1) actual, 2) 10% low, 3) 10% high
@@ -57,8 +57,8 @@ ggplot(df, aes(vel, drop, fill = as.factor(bc))) +
   )
 
 mod <- lm(drop ~ vel + bc + wt + alt + tmp + vel*bc, data = df)
-av <- aov(mod)
+av <- Anova(mod, type = 'III')
 mod2 <- lm(drop ~ vel*bc, data = df)
-av2 <- aov(mod2)
+av2 <- Anova(mod2, type = 'III')
 
 
