@@ -163,4 +163,35 @@ mod <- aov(vel ~ rfl + amo * cnt , data = vel)
 # plot(tukey.test)
 # marginal <- lsmeans::lsmeans(mod, pairwise ~ amo, adjust = 'tukey')
 
+v <- data.frame(Mean = c(2406,2434, 2570, 2727),
+                Variance = c(299.2, 361.7, 726.2, 1546.1),
+                Ammo = c('B', 'C', 'A', 'D'))
+v$Ammo <- factor(v$Ammo, levels = v$Ammo)
+
+#v_plot <- 
+  ggplot(v, aes(x=Mean, y=Variance, fill = Ammo)) + 
+  geom_point(color = 'black', shape = 21, size = 6) +
+  #geom_smooth(method = 'lm', formula = (y ~ x)) +
+  scale_fill_manual(values = c('orange', 'yellow', 'green', 'purple')) + 
+  scale_y_continuous(label = comma) +
+  scale_x_continuous(label = comma) +
+  ggtitle('Mean Velocity vs Variance \n') +
+  xlab('\n Mean Velocity (fps)') +
+  ylab('Velocity Variance \n') +
+  theme_bw() +
+  theme(
+    plot.title = element_text(color = 'black', face = 'bold', 
+                              hjust = 0.5, size = 16),
+    axis.title = element_text(color = 'black', face = 'bold', 
+                              hjust = 0.5, size = 14),
+    axis.text = element_text(color = 'black', face = 'bold', 
+                             hjust = 0.5, size = 14),
+    plot.margin = margin(c(.2,.2,.2,.2), unit = 'in'),
+    legend.title = element_blank(),
+    legend.text = element_text(color = 'black', face = 'bold', 
+                               hjust = 0.5, size = 7),
+    legend.background = element_rect(color = 'black'),
+    legend.position = "right" #c(0.1, 0.85)
+  )
+
 

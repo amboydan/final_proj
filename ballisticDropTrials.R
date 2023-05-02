@@ -57,6 +57,24 @@ ggplot(df, aes(vel, drop, fill = as.factor(bc))) +
   )
 
 mod <- lm(drop ~ vel + bc + wt + alt + tmp + vel*bc, data = df)
+
+# residuals plot
+p_resid <- ggplot(mod, aes(.fitted, .resid)) +
+  geom_point(shape = 21, color = 'black', fill = 'red', size = 6) +
+  geom_hline(yintercept = 0, linetype = 2) +
+  ggtitle('Model of Velocity Significance Residuals  \n') +
+  xlab('\n Ballistic Drop (in)') +
+  ylab('Residuals: Modeled Values - Actuals \n') +
+  theme_bw() +
+  theme(
+    plot.title = element_text(color = 'black', face = 'bold', 
+                              hjust = 0.5, size = 14),
+    axis.title = element_text(color = 'black', face = 'bold', 
+                              hjust = 0.5, size = 14),
+    axis.text = element_text(color = 'black', face = 'bold', 
+                             hjust = 0.5, size = 14),
+    plot.margin = margin(c(.2,.2,.2,.2), unit = 'in')
+  )
 av <- Anova(mod, type = 'III')
 mod2 <- lm(drop ~ vel*bc, data = df)
 av2 <- Anova(mod2, type = 'III')
